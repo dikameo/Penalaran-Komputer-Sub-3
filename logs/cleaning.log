@@ -1,0 +1,65 @@
+2026-05-10 21:31:57,064 | INFO | === Sesi scraping dimulai — Perkara: Narkotika ===
+2026-05-10 21:31:58,881 | WARNING | Attempt 1/3 gagal untuk https://putusan3.mahkamahagung.go.id/search.html: 403 Client Error: Forbidden for url: https://putusan3.mahkamahagung.go.id/search.html?q=narkotika&page=1
+2026-05-10 21:32:03,936 | WARNING | Attempt 2/3 gagal untuk https://putusan3.mahkamahagung.go.id/search.html: 403 Client Error: Forbidden for url: https://putusan3.mahkamahagung.go.id/search.html?q=narkotika&page=1
+2026-05-10 21:32:09,628 | WARNING | Attempt 3/3 gagal untuk https://putusan3.mahkamahagung.go.id/search.html: 403 Client Error: Forbidden for url: https://putusan3.mahkamahagung.go.id/search.html?q=narkotika&page=1
+2026-05-10 21:32:13,632 | ERROR | Gagal mengakses: https://putusan3.mahkamahagung.go.id/search.html
+2026-05-10 21:32:13,642 | INFO | Tidak ada hasil di halaman 1, berhenti.
+2026-05-10 21:32:13,646 | INFO | Total metadata terkumpul: 0
+2026-05-10 21:32:13,881 | INFO | Download selesai: 0/0 berhasil
+2026-05-10 21:32:14,108 | INFO | Pipeline mulai: 0 PDF
+2026-05-10 21:32:14,197 | WARNING | Validasi akhir: KURANG 30 dokumen
+2026-05-10 21:35:34,367 | WARNING | 403 di https://putusan3.mahkamahagung.go.id/api/pencarian, coba endpoint lain
+2026-05-10 21:35:35,463 | WARNING | 403 di https://putusan3.mahkamahagung.go.id/search.html, coba endpoint lain
+2026-05-10 21:35:35,469 | INFO | Tidak ada hasil di halaman 1, berhenti.
+2026-05-10 21:35:35,471 | INFO | Total metadata: 0
+2026-05-10 21:44:50,132 | INFO | ====== WebDriver manager ======
+2026-05-10 21:44:57,729 | INFO | Get LATEST chromedriver version for google-chrome
+2026-05-10 21:44:58,997 | INFO | Get LATEST chromedriver version for google-chrome
+2026-05-10 21:44:59,766 | INFO | Driver [C:\Users\Huawei\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-10 21:45:26,981 | WARNING | Timeout di halaman 1 — konten tidak muncul
+2026-05-10 21:45:26,984 | INFO | Total metadata terkumpul: 0
+2026-05-10 21:48:13,558 | INFO | ====== WebDriver manager ======
+2026-05-10 21:48:20,769 | INFO | Get LATEST chromedriver version for google-chrome
+2026-05-10 21:48:21,538 | INFO | Get LATEST chromedriver version for google-chrome
+2026-05-10 21:48:22,324 | INFO | Driver [C:\Users\Huawei\.wdm\drivers\chromedriver\win64\147.0.7727.117\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-10 21:53:50,756 | INFO | patching driver executable C:\Users\Huawei\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-05-10 21:55:48,707 | INFO | patching driver executable C:\Users\Huawei\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-05-10 22:02:10,323 | WARNING | case_001: link PDF tidak ditemukan — https://putusan3.mahkamahagung.go.id/direktori/putusan/zaecb6d6d4952914af6a303735373134.html
+2026-05-10 22:02:15,194 | WARNING | case_002: link PDF tidak ditemukan — https://putusan3.mahkamahagung.go.id/direktori/putusan/58ebca9e9506e750e8ac0e32821da441.html
+2026-05-10 22:07:33,569 | INFO | === Sesi scraping dimulai — Perkara: Narkotika ===
+2026-05-10 22:09:13,183 | WARNING | case_001: link PDF tidak ditemukan — https://putusan3.mahkamahagung.go.id/direktori/putusan/zaecb6d6d4952914af6a303735373134.html
+2026-05-10 22:09:17,128 | WARNING | case_002: link PDF tidak ditemukan — https://putusan3.mahkamahagung.go.id/direktori/putusan/58ebca9e9506e750e8ac0e32821da441.html
+2026-05-10 22:09:20,210 | WARNING | case_003: link PDF tidak ditemukan — https://putusan3.mahkamahagung.go.id/direktori/putusan/c47390bd8d1f680e3705d39f32b3e9a9.html
+2026-05-10 22:10:03,246 | WARNING | case_004: link PDF tidak ditemukan — https://putusan3.mahkamahagung.go.id/direktori/putusan/9c3b02cb062e898e0fde332d749fb4a4.html
+2026-05-10 22:10:46,257 | WARNING | case_005: link PDF tidak ditemukan — https://putusan3.mahkamahagung.go.id/direktori/putusan/8641cfd651ddae4d36091a6f31642498.html
+2026-05-10 22:24:46,768 | WARNING | case_001: tidak ada tombol Download PDF
+2026-05-10 22:25:53,359 | WARNING | case_002: download timeout atau file tidak muncul
+2026-05-10 22:26:00,962 | WARNING | case_003: tidak ada tombol Download PDF
+2026-05-10 22:26:06,306 | WARNING | case_004: tidak ada tombol Download PDF
+2026-05-10 22:26:56,877 | WARNING | case_005: download timeout atau file tidak muncul
+2026-05-10 22:27:50,681 | WARNING | case_006: download timeout atau file tidak muncul
+2026-05-10 22:29:24,058 | WARNING | case_007: download timeout atau file tidak muncul
+2026-05-10 22:31:54,837 | WARNING | case_008: download timeout atau file tidak muncul
+2026-05-10 22:33:27,742 | WARNING | case_009: download timeout atau file tidak muncul
+2026-05-10 22:34:24,887 | WARNING | case_010: download timeout atau file tidak muncul
+2026-05-10 22:36:17,864 | WARNING | case_011: download timeout atau file tidak muncul
+2026-05-10 22:37:12,346 | WARNING | case_012: download timeout atau file tidak muncul
+2026-05-10 22:38:07,134 | WARNING | case_013: download timeout atau file tidak muncul
+2026-05-10 22:39:03,928 | WARNING | case_014: tidak ada tombol Download PDF
+2026-05-10 22:39:51,723 | WARNING | case_015: tidak ada tombol Download PDF
+2026-05-10 22:39:58,199 | WARNING | case_016: tidak ada tombol Download PDF
+2026-05-10 22:40:06,171 | WARNING | case_017: tidak ada tombol Download PDF
+2026-05-10 22:40:51,603 | WARNING | case_018: tidak ada tombol Download PDF
+2026-05-10 22:40:58,426 | WARNING | case_019: tidak ada tombol Download PDF
+2026-05-10 22:41:47,780 | WARNING | case_020: tidak ada tombol Download PDF
+2026-05-10 22:41:54,038 | WARNING | case_021: tidak ada tombol Download PDF
+2026-05-10 22:42:00,066 | WARNING | case_022: tidak ada tombol Download PDF
+2026-05-10 22:42:05,861 | WARNING | case_023: tidak ada tombol Download PDF
+2026-05-10 22:42:28,701 | WARNING | case_024: tidak ada tombol Download PDF
+2026-05-10 22:42:35,222 | WARNING | case_025: tidak ada tombol Download PDF
+2026-05-10 22:43:39,467 | WARNING | case_026: tidak ada tombol Download PDF
+2026-05-21 10:23:13,631 | INFO | === Sesi scraping dimulai — Perkara: Narkotika ===
+2026-05-21 10:23:31,924 | INFO | patching driver executable C:\Users\Huawei\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-05-21 10:25:09,982 | INFO | patching driver executable C:\Users\Huawei\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-05-21 10:25:36,840 | WARNING | case_001: tidak ada tombol Download PDF
+2026-05-21 10:26:51,828 | WARNING | case_002: tidak ada tombol Download PDF
