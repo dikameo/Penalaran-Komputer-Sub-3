@@ -1,0 +1,1571 @@
+2026-05-21 10:37:14,192 | INFO | === Sesi dimulai — Perkara: Narkotika ===
+2026-05-21 10:38:31,752 | WARNING | case_001: tidak ada lampiran PDF → di-skip
+2026-05-21 10:38:37,665 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9fca63bf5fb9b19bcfe5392e543bd93b/pdf/6fcbe4a25fea43a8105b9564e4ef8099
+2026-05-21 10:39:18,628 | INFO | case_002: ✅ 198 KB
+2026-05-21 10:39:26,430 | WARNING | case_003: tidak ada lampiran PDF → di-skip
+2026-05-21 10:40:00,026 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8cc91b2588e4c1ab0e422b208f49f621/pdf/zaee34f13aebd8e0bd54313430383337
+2026-05-21 10:41:50,157 | INFO | case_004: ✅ 139 KB
+2026-05-21 10:42:41,376 | WARNING | case_005: tidak ada lampiran PDF → di-skip
+2026-05-21 10:44:14,691 | WARNING | case_006: tidak ada lampiran PDF → di-skip
+2026-05-21 10:44:44,309 | WARNING | case_007: tidak ada lampiran PDF → di-skip
+2026-05-21 10:44:57,599 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ed61bcb4e1c4d2d18a29618141d62856/pdf/zaec3253fd23a48a8b53313634383035
+2026-05-21 10:45:02,384 | INFO | case_008: ✅ 155 KB
+2026-05-21 10:45:13,487 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ea90d5cca317fe9c750dc5e56d6bebe/pdf/zaec46739f119710b134303732343534
+2026-05-21 10:45:17,299 | INFO | case_009: ✅ 204 KB
+2026-05-21 10:46:54,240 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2c2d019fcd41c39bc31210d640ba01f1/pdf/zaec15f8db851830922d313434353132
+2026-05-21 10:47:11,535 | INFO | case_010: ✅ 138 KB
+2026-05-21 10:47:30,436 | WARNING | case_011: tidak ada lampiran PDF → di-skip
+2026-05-21 10:49:18,241 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/54eaae4b41f62d0de98fb82fea02cf9a/pdf/zaec3d4770bc283888cd313531353538
+2026-05-21 10:49:22,308 | INFO | case_012: ✅ 182 KB
+2026-05-21 10:49:42,933 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f42371534c7d1e97c23247ca523666a5/pdf/20e82e125659f6c8382b27236fe1f4d6
+2026-05-21 10:51:08,913 | INFO | case_013: ✅ 160 KB
+2026-05-21 10:51:33,858 | WARNING | case_014: tidak ada lampiran PDF → di-skip
+2026-05-21 10:51:51,125 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f14109e150b0f9e035915b0a9ba02f0f/pdf/0e0e62dae4848801ba44ff94960808e4
+2026-05-21 10:51:54,815 | INFO | case_015: ✅ 147 KB
+2026-05-21 10:52:04,813 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/5f41a8e61e80ef7464b10a4bd23ec76f/pdf/zaec19d028be0d7ac095313230333536
+2026-05-21 10:53:27,397 | INFO | case_016: ✅ 132 KB
+2026-05-21 10:53:46,012 | WARNING | case_017: tidak ada lampiran PDF → di-skip
+2026-05-21 10:53:56,183 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-05-21 10:54:03,118 | WARNING | case_019: tidak ada lampiran PDF → di-skip
+2026-05-21 10:55:22,967 | WARNING | case_020: tidak ada lampiran PDF → di-skip
+2026-05-21 10:55:38,741 | INFO | case_021: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8bb8709b80a757fab870c071bb8ad0f4/pdf/zaf154c433c66df0aeb8313032313438
+2026-05-21 10:57:04,200 | INFO | case_021: ✅ 174 KB
+2026-05-21 10:57:24,648 | INFO | case_022: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/82c55a5e67ef7230602fce613bd47905/pdf/zaf154c43258370abb19313032313436
+2026-05-21 10:57:29,058 | INFO | case_022: ✅ 131 KB
+2026-05-21 10:57:54,000 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-05-21 10:57:59,307 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/54eaae4b41f62d0de98fb82fea02cf9a/pdf/zaec3d4770bc283888cd313531353538
+2026-05-21 10:58:02,391 | INFO | case_024: ✅ 182 KB
+2026-05-21 10:58:09,331 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f42371534c7d1e97c23247ca523666a5/pdf/20e82e125659f6c8382b27236fe1f4d6
+2026-05-21 10:58:12,404 | INFO | case_025: ✅ 160 KB
+2026-05-21 10:59:23,618 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9233f3dea9035c91b66903b37663c42f/pdf/0fd574c916b616e757f088bda7230d19
+2026-05-21 10:59:38,899 | INFO | case_026: ✅ 123 KB
+2026-05-21 11:00:00,598 | INFO | case_027: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c787ef10f2cb9d3d7b213a02809d7b01/pdf/e8174af7cfd54fda4c334586551edbef
+2026-05-21 11:01:54,961 | INFO | case_027: ✅ 152 KB
+2026-05-21 11:02:19,954 | WARNING | case_028: tidak ada lampiran PDF → di-skip
+2026-05-21 11:02:25,385 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f14109e150b0f9e035915b0a9ba02f0f/pdf/0e0e62dae4848801ba44ff94960808e4
+2026-05-21 11:02:28,474 | INFO | case_029: ✅ 147 KB
+2026-05-21 11:02:35,517 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/5f41a8e61e80ef7464b10a4bd23ec76f/pdf/zaec19d028be0d7ac095313230333536
+2026-05-21 11:02:38,595 | INFO | case_030: ✅ 132 KB
+2026-05-21 11:02:45,807 | WARNING | case_031: tidak ada lampiran PDF → di-skip
+2026-05-21 11:02:51,010 | WARNING | case_032: tidak ada lampiran PDF → di-skip
+2026-05-21 11:03:46,503 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/edaac923079cd2126dc8224924eb0a75/pdf/zaebf9b777f069b29d41313534363335
+2026-05-21 11:03:55,177 | INFO | case_033: ✅ 194 KB
+2026-05-21 11:04:10,519 | WARNING | case_034: tidak ada lampiran PDF → di-skip
+2026-05-21 11:04:17,345 | WARNING | case_035: tidak ada lampiran PDF → di-skip
+2026-05-21 11:04:22,761 | WARNING | case_036: tidak ada lampiran PDF → di-skip
+2026-05-21 11:05:24,914 | WARNING | case_037: tidak ada lampiran PDF → di-skip
+2026-05-21 11:05:30,195 | WARNING | case_038: tidak ada lampiran PDF → di-skip
+2026-05-21 11:05:46,607 | WARNING | case_039: tidak ada lampiran PDF → di-skip
+2026-05-21 11:05:51,942 | WARNING | case_040: tidak ada lampiran PDF → di-skip
+2026-05-21 11:05:57,320 | WARNING | case_041: tidak ada lampiran PDF → di-skip
+2026-05-21 11:06:24,216 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/fa1f0c34292d838474b1016551148c5d/pdf/zaebf97ba73b57febb1f303833383234
+2026-05-21 11:07:43,741 | INFO | case_042: ✅ 161 KB
+2026-05-21 11:08:32,269 | WARNING | case_043: tidak ada lampiran PDF → di-skip
+2026-05-21 11:09:00,395 | WARNING | case_044: tidak ada lampiran PDF → di-skip
+2026-05-21 11:10:33,094 | INFO | case_045: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d44a50aae856fbb7cc614f22600aede2/pdf/zaf15006f123e854923f303933363537
+2026-05-21 11:10:36,374 | INFO | case_045: ✅ 188 KB
+2026-05-21 11:10:39,547 | INFO | Pipeline mulai: 20 PDF
+2026-05-21 11:10:42,495 | WARNING | case_002: validitas 11.91% < 80%
+2026-05-21 11:10:44,517 | WARNING | case_004: validitas 11.31% < 80%
+2026-05-21 11:10:47,045 | WARNING | case_008: validitas 9.97% < 80%
+2026-05-21 11:10:50,832 | WARNING | case_009: validitas 10.21% < 80%
+2026-05-21 11:10:52,308 | WARNING | case_010: validitas 10.77% < 80%
+2026-05-21 11:10:55,087 | WARNING | case_012: validitas 10.11% < 80%
+2026-05-21 11:10:57,360 | WARNING | case_013: validitas 12.38% < 80%
+2026-05-21 11:10:59,159 | WARNING | case_015: validitas 10.56% < 80%
+2026-05-21 11:11:00,619 | WARNING | case_016: validitas 11.30% < 80%
+2026-05-21 11:11:02,663 | WARNING | case_021: validitas 13.24% < 80%
+2026-05-21 11:11:03,913 | WARNING | case_022: validitas 11.81% < 80%
+2026-05-21 11:11:06,519 | WARNING | case_024: validitas 10.11% < 80%
+2026-05-21 11:11:08,869 | WARNING | case_025: validitas 12.38% < 80%
+2026-05-21 11:11:10,706 | WARNING | case_026: validitas 11.38% < 80%
+2026-05-21 11:11:12,350 | WARNING | case_027: validitas 11.54% < 80%
+2026-05-21 11:11:14,162 | WARNING | case_029: validitas 10.56% < 80%
+2026-05-21 11:11:15,611 | WARNING | case_030: validitas 11.30% < 80%
+2026-05-21 11:11:18,577 | WARNING | case_033: validitas 10.98% < 80%
+2026-05-21 11:11:20,618 | WARNING | case_042: validitas 11.64% < 80%
+2026-05-21 11:11:23,467 | WARNING | case_045: validitas 9.85% < 80%
+2026-05-21 11:11:23,523 | WARNING | Validasi akhir: KURANG 30 dokumen
+2026-06-13 13:48:52,290 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 13:48:55,797 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 13:49:29,158 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 13:49:55,837 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 13:49:58,897 | INFO | case_001: ✅ 42 KB
+2026-06-13 13:50:00,899 | INFO | case_002: sudah ada, skip
+2026-06-13 13:50:04,658 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 13:50:09,613 | INFO | case_003: ✅ 1233 KB
+2026-06-13 13:50:11,614 | INFO | case_004: sudah ada, skip
+2026-06-13 13:50:15,510 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 13:50:18,571 | INFO | case_005: ✅ 54 KB
+2026-06-13 13:51:02,788 | WARNING | case_006: tidak ada lampiran PDF → di-skip
+2026-06-13 13:51:08,741 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 13:51:11,802 | INFO | case_007: ✅ 61 KB
+2026-06-13 13:51:13,805 | INFO | case_008: sudah ada, skip
+2026-06-13 13:51:13,805 | INFO | case_009: sudah ada, skip
+2026-06-13 13:51:13,806 | INFO | case_010: sudah ada, skip
+2026-06-13 13:51:19,980 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 13:51:23,514 | INFO | case_011: ✅ 232 KB
+2026-06-13 13:51:25,515 | INFO | case_012: sudah ada, skip
+2026-06-13 13:51:25,517 | INFO | case_013: sudah ada, skip
+2026-06-13 13:51:34,445 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 13:51:38,101 | INFO | case_014: ✅ 749 KB
+2026-06-13 13:51:40,104 | INFO | case_015: sudah ada, skip
+2026-06-13 13:51:40,105 | INFO | case_016: sudah ada, skip
+2026-06-13 13:51:46,338 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 13:51:49,938 | INFO | case_017: ✅ 54 KB
+2026-06-13 13:51:55,907 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 13:52:01,298 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 13:52:07,038 | INFO | case_019: ✅ 187 KB
+2026-06-13 13:52:15,329 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 13:52:18,865 | INFO | case_020: ✅ 228 KB
+2026-06-13 13:52:20,868 | INFO | case_021: sudah ada, skip
+2026-06-13 13:52:20,869 | INFO | case_022: sudah ada, skip
+2026-06-13 13:52:24,826 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 13:52:24,828 | INFO | case_024: sudah ada, skip
+2026-06-13 13:52:24,828 | INFO | case_025: sudah ada, skip
+2026-06-13 13:52:24,829 | INFO | case_026: sudah ada, skip
+2026-06-13 13:52:24,830 | INFO | case_027: sudah ada, skip
+2026-06-13 13:52:31,625 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 13:52:35,388 | INFO | case_028: ✅ 243 KB
+2026-06-13 13:52:37,390 | INFO | case_029: sudah ada, skip
+2026-06-13 13:52:37,390 | INFO | case_030: sudah ada, skip
+2026-06-13 13:52:45,386 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 13:52:48,965 | INFO | case_031: ✅ 331 KB
+2026-06-13 13:52:55,044 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 13:53:01,095 | INFO | case_032: ✅ 1244 KB
+2026-06-13 13:53:03,096 | INFO | case_033: sudah ada, skip
+2026-06-13 13:53:07,090 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 13:53:11,000 | INFO | case_034: ✅ 1693 KB
+2026-06-13 13:53:16,993 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 13:53:23,044 | INFO | case_035: ✅ 184 KB
+2026-06-13 13:53:31,889 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 13:53:35,441 | INFO | case_036: ✅ 865 KB
+2026-06-13 13:53:41,409 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 13:53:47,033 | INFO | case_037: ✅ 152 KB
+2026-06-13 13:53:53,026 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 13:53:57,924 | INFO | case_038: ✅ 1436 KB
+2026-06-13 13:54:03,915 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 13:54:09,151 | INFO | case_039: ✅ 271 KB
+2026-06-13 13:54:15,163 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 13:54:20,364 | INFO | case_040: ✅ 1132 KB
+2026-06-13 13:54:26,361 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 13:54:31,019 | INFO | case_041: ✅ 2385 KB
+2026-06-13 13:54:33,020 | INFO | case_042: sudah ada, skip
+2026-06-13 13:54:38,532 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 13:54:43,409 | INFO | case_043: ✅ 254 KB
+2026-06-13 13:54:58,179 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 13:55:08,337 | INFO | case_044: ✅ 125 KB
+2026-06-13 13:55:10,339 | INFO | case_045: sudah ada, skip
+2026-06-13 13:55:10,640 | INFO | Pipeline mulai: 42 PDF
+2026-06-13 13:55:10,882 | WARNING | case_001: hanya 175 kata (min 200)
+2026-06-13 13:55:12,314 | WARNING | case_002: validitas 11.91% < 80%
+2026-06-13 13:55:14,878 | WARNING | case_003: validitas 9.38% < 80%
+2026-06-13 13:55:15,947 | WARNING | case_004: validitas 11.31% < 80%
+2026-06-13 13:55:16,137 | WARNING | case_005: hanya 129 kata (min 200)
+2026-06-13 13:55:16,371 | WARNING | case_007: hanya 129 kata (min 200)
+2026-06-13 13:55:17,705 | WARNING | case_008: validitas 9.97% < 80%
+2026-06-13 13:55:19,572 | WARNING | case_009: validitas 10.21% < 80%
+2026-06-13 13:55:20,323 | WARNING | case_010: validitas 10.77% < 80%
+2026-06-13 13:55:22,194 | WARNING | case_011: validitas 8.63% < 80%
+2026-06-13 13:55:23,514 | WARNING | case_012: validitas 10.11% < 80%
+2026-06-13 13:55:24,729 | WARNING | case_013: validitas 12.38% < 80%
+2026-06-13 13:55:30,300 | WARNING | case_014: validitas 8.67% < 80%
+2026-06-13 13:55:31,253 | WARNING | case_015: validitas 10.56% < 80%
+2026-06-13 13:55:31,980 | WARNING | case_016: validitas 11.30% < 80%
+2026-06-13 13:55:32,136 | WARNING | case_017: hanya 199 kata (min 200)
+2026-06-13 13:55:33,160 | WARNING | case_019: validitas 9.75% < 80%
+2026-06-13 13:55:34,232 | WARNING | case_020: validitas 10.07% < 80%
+2026-06-13 13:55:35,209 | WARNING | case_021: validitas 13.24% < 80%
+2026-06-13 13:55:35,894 | WARNING | case_022: validitas 11.81% < 80%
+2026-06-13 13:55:37,200 | WARNING | case_024: validitas 10.11% < 80%
+2026-06-13 13:55:38,429 | WARNING | case_025: validitas 12.38% < 80%
+2026-06-13 13:55:39,370 | WARNING | case_026: validitas 11.38% < 80%
+2026-06-13 13:55:40,352 | WARNING | case_027: validitas 11.54% < 80%
+2026-06-13 13:55:42,200 | WARNING | case_028: validitas 9.75% < 80%
+2026-06-13 13:55:43,159 | WARNING | case_029: validitas 10.56% < 80%
+2026-06-13 13:55:43,909 | WARNING | case_030: validitas 11.30% < 80%
+2026-06-13 13:55:46,119 | WARNING | case_031: validitas 9.00% < 80%
+2026-06-13 13:55:48,110 | WARNING | case_032: validitas 10.72% < 80%
+2026-06-13 13:55:49,623 | WARNING | case_033: validitas 10.98% < 80%
+2026-06-13 13:55:52,621 | WARNING | case_034: validitas 10.27% < 80%
+2026-06-13 13:55:53,999 | WARNING | case_035: validitas 10.14% < 80%
+2026-06-13 13:55:55,327 | WARNING | case_036: validitas 10.73% < 80%
+2026-06-13 13:55:56,572 | WARNING | case_037: validitas 8.95% < 80%
+2026-06-13 13:55:59,382 | WARNING | case_038: validitas 12.34% < 80%
+2026-06-13 13:56:01,742 | WARNING | case_039: validitas 9.44% < 80%
+2026-06-13 13:56:03,384 | WARNING | case_040: validitas 13.29% < 80%
+2026-06-13 13:56:08,211 | WARNING | case_041: validitas 10.71% < 80%
+2026-06-13 13:56:09,253 | WARNING | case_042: validitas 11.64% < 80%
+2026-06-13 13:56:10,438 | WARNING | case_043: validitas 12.22% < 80%
+2026-06-13 13:56:11,212 | WARNING | case_044: validitas 13.52% < 80%
+2026-06-13 13:56:12,670 | WARNING | case_045: validitas 9.85% < 80%
+2026-06-13 13:56:12,684 | WARNING | Validasi akhir: KURANG 50 dokumen
+2026-06-13 14:00:04,808 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 14:00:06,604 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 14:00:34,043 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 14:00:51,789 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 14:00:54,863 | INFO | case_001: ✅ 42 KB
+2026-06-13 14:01:00,673 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c25cf61f40aba47303032393431/pdf/b72178899eca2bee8d3882beb5535436
+2026-06-13 14:01:06,520 | INFO | case_002: ✅ 60 KB
+2026-06-13 14:01:12,303 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 14:01:15,367 | INFO | case_003: ✅ 1233 KB
+2026-06-13 14:01:23,607 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e998d4d3838174a63f313931323236/pdf/9bc770a1dd47d9f951db97fd29afd1ce
+2026-06-13 14:01:29,124 | INFO | case_004: ✅ 184 KB
+2026-06-13 14:01:34,924 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 14:01:37,981 | INFO | case_005: ✅ 54 KB
+2026-06-13 14:02:22,176 | WARNING | case_006: tidak ada lampiran PDF → di-skip
+2026-06-13 14:02:25,950 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 14:02:29,009 | INFO | case_007: ✅ 61 KB
+2026-06-13 14:02:38,083 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c6754e6e9a8b96f4a2bfae0c1ffeb26e/pdf/c6eef4c08e7d54f350dfd8efaa631b2e
+2026-06-13 14:02:41,801 | INFO | case_008: ✅ 1241 KB
+2026-06-13 14:02:47,587 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e991c30a4b2662b0a4313931373238/pdf/25c53bba2c9ff949fa376ac7f345b258
+2026-06-13 14:03:11,880 | INFO | case_009: ✅ 290 KB
+2026-06-13 14:03:17,674 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d4744e3ec02b270313130313433/pdf/cb948d7eac0ac409bff953d500e2294a
+2026-06-13 14:03:22,944 | INFO | case_010: ✅ 202 KB
+2026-06-13 14:03:28,732 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 14:03:31,796 | INFO | case_011: ✅ 232 KB
+2026-06-13 14:03:40,780 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9933f468745d4af56313633393138/pdf/49f4044dba72cce2460923a8bf39b155
+2026-06-13 14:03:45,759 | INFO | case_012: ✅ 289 KB
+2026-06-13 14:03:51,540 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9951b5fc8ffa098a7303132373231/pdf/71c8ff3ce0942750ad0d7b37ca849774
+2026-06-13 14:03:58,129 | INFO | case_013: ✅ 253 KB
+2026-06-13 14:04:03,935 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 14:04:06,990 | INFO | case_014: ✅ 749 KB
+2026-06-13 14:04:14,762 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99812685a3bbcb6dc323030303433/pdf/8f6fa2c8dd35761dfae2bc0ea5655b9c
+2026-06-13 14:04:17,824 | INFO | case_015: ✅ 432 KB
+2026-06-13 14:04:26,829 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992375628168e8377303930393537/pdf/2a2d8419269863696573daafff0b6093
+2026-06-13 14:06:08,037 | WARNING | case_016: timeout atau file terlalu kecil
+2026-06-13 14:06:13,883 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 14:06:16,938 | INFO | case_017: ✅ 54 KB
+2026-06-13 14:06:22,782 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 14:06:26,536 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 14:06:29,592 | INFO | case_019: ✅ 187 KB
+2026-06-13 14:06:35,359 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 14:06:38,416 | INFO | case_020: ✅ 228 KB
+2026-06-13 14:06:44,322 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 14:06:48,145 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 14:06:51,954 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 14:06:55,707 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c59b5f8a912b425303634313133/pdf/bdf4d24644b4336ee688f1dc3351c82a
+2026-06-13 14:06:59,426 | INFO | case_024: ✅ 218 KB
+2026-06-13 14:07:05,242 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a4a251540ce487a3313934313036/pdf/7da538b8956581f61abf55f7ca3d1858
+2026-06-13 14:07:08,306 | INFO | case_025: ✅ 318 KB
+2026-06-13 14:07:14,063 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c27d8b1b82aa2e313032383339/pdf/872905de26d2791b00afd4f9c089fef2
+2026-06-13 14:07:18,137 | INFO | case_026: ✅ 560 KB
+2026-06-13 14:08:02,138 | WARNING | case_027: tidak ada lampiran PDF → di-skip
+2026-06-13 14:08:05,935 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 14:08:08,992 | INFO | case_028: ✅ 243 KB
+2026-06-13 14:08:16,733 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d55d68fb541ca288c90a8563b92936a0/pdf/434d3cffb172f33915fc8396ac7778b0
+2026-06-13 14:08:21,430 | INFO | case_029: ✅ 1016 KB
+2026-06-13 14:08:27,198 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/24b5e304ce8971707e0e05e1c21a2f2a/pdf/018815ec8c1691425ff3b2762c9804fd
+2026-06-13 14:08:31,276 | INFO | case_030: ✅ 1192 KB
+2026-06-13 14:08:37,311 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 14:08:40,370 | INFO | case_031: ✅ 331 KB
+2026-06-13 14:08:46,387 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 14:08:49,442 | INFO | case_032: ✅ 1244 KB
+2026-06-13 14:08:58,602 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ee6629c36c2e5d45bd14e8b89ecbb34/pdf/6cef23d872e8edbac736c58e265e830d
+2026-06-13 14:09:03,542 | INFO | case_033: ✅ 213 KB
+2026-06-13 14:09:09,514 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 14:09:12,569 | INFO | case_034: ✅ 1693 KB
+2026-06-13 14:09:18,581 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 14:09:21,640 | INFO | case_035: ✅ 184 KB
+2026-06-13 14:09:27,640 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 14:09:30,692 | INFO | case_036: ✅ 865 KB
+2026-06-13 14:09:36,713 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 14:09:39,769 | INFO | case_037: ✅ 152 KB
+2026-06-13 14:09:45,747 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 14:09:48,806 | INFO | case_038: ✅ 1436 KB
+2026-06-13 14:09:54,788 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 14:09:57,843 | INFO | case_039: ✅ 271 KB
+2026-06-13 14:10:03,844 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 14:10:06,903 | INFO | case_040: ✅ 1132 KB
+2026-06-13 14:10:12,882 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 14:10:15,943 | INFO | case_041: ✅ 2385 KB
+2026-06-13 14:10:24,024 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f93ba32ce5d851158a77707906b684f8/pdf/e4a0ae37a01c37bde81d2b6c0ba25dd6
+2026-06-13 14:10:27,586 | INFO | case_042: ✅ 1003 KB
+2026-06-13 14:10:33,607 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 14:10:36,663 | INFO | case_043: ✅ 254 KB
+2026-06-13 14:10:42,636 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 14:10:45,700 | INFO | case_044: ✅ 125 KB
+2026-06-13 14:10:51,768 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 14:10:52,113 | INFO | Pipeline mulai: 37 PDF
+2026-06-13 14:10:52,350 | WARNING | case_001: hanya 175 kata (min 200)
+2026-06-13 14:10:52,596 | WARNING | case_002: hanya 165 kata (min 200)
+2026-06-13 14:10:55,108 | WARNING | case_003: validitas 9.38% < 80%
+2026-06-13 14:10:55,955 | WARNING | case_004: validitas 12.80% < 80%
+2026-06-13 14:10:56,174 | WARNING | case_005: hanya 129 kata (min 200)
+2026-06-13 14:10:56,407 | WARNING | case_007: hanya 129 kata (min 200)
+2026-06-13 14:10:58,342 | WARNING | case_008: validitas 11.08% < 80%
+2026-06-13 14:11:00,606 | WARNING | case_009: validitas 9.53% < 80%
+2026-06-13 14:11:02,601 | WARNING | case_010: validitas 10.48% < 80%
+2026-06-13 14:11:04,552 | WARNING | case_011: validitas 8.63% < 80%
+2026-06-13 14:11:07,033 | WARNING | case_012: validitas 9.24% < 80%
+2026-06-13 14:11:08,977 | WARNING | case_013: validitas 8.98% < 80%
+2026-06-13 14:11:14,509 | WARNING | case_014: validitas 8.67% < 80%
+2026-06-13 14:11:18,119 | WARNING | case_015: validitas 8.86% < 80%
+2026-06-13 14:11:18,276 | WARNING | case_017: hanya 199 kata (min 200)
+2026-06-13 14:11:19,350 | WARNING | case_019: validitas 9.75% < 80%
+2026-06-13 14:11:20,390 | WARNING | case_020: validitas 10.07% < 80%
+2026-06-13 14:11:22,136 | WARNING | case_024: validitas 9.69% < 80%
+2026-06-13 14:11:24,727 | WARNING | case_025: validitas 9.80% < 80%
+2026-06-13 14:11:30,712 | WARNING | case_026: validitas 8.80% < 80%
+2026-06-13 14:11:32,579 | WARNING | case_028: validitas 9.75% < 80%
+2026-06-13 14:11:34,063 | WARNING | case_029: validitas 12.27% < 80%
+2026-06-13 14:11:36,482 | WARNING | case_030: validitas 9.83% < 80%
+2026-06-13 14:11:38,705 | WARNING | case_031: validitas 9.00% < 80%
+2026-06-13 14:11:40,633 | WARNING | case_032: validitas 10.72% < 80%
+2026-06-13 14:11:42,026 | WARNING | case_033: validitas 11.24% < 80%
+2026-06-13 14:11:45,068 | WARNING | case_034: validitas 10.27% < 80%
+2026-06-13 14:11:46,455 | WARNING | case_035: validitas 10.14% < 80%
+2026-06-13 14:11:47,796 | WARNING | case_036: validitas 10.73% < 80%
+2026-06-13 14:11:49,063 | WARNING | case_037: validitas 8.95% < 80%
+2026-06-13 14:11:51,837 | WARNING | case_038: validitas 12.34% < 80%
+2026-06-13 14:11:54,177 | WARNING | case_039: validitas 9.44% < 80%
+2026-06-13 14:11:55,819 | WARNING | case_040: validitas 13.29% < 80%
+2026-06-13 14:12:00,693 | WARNING | case_041: validitas 10.71% < 80%
+2026-06-13 14:12:02,385 | WARNING | case_042: validitas 10.96% < 80%
+2026-06-13 14:12:03,526 | WARNING | case_043: validitas 12.22% < 80%
+2026-06-13 14:12:04,313 | WARNING | case_044: validitas 13.52% < 80%
+2026-06-13 14:12:04,328 | WARNING | Validasi akhir: KURANG 50 dokumen
+2026-06-13 19:33:19,931 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 19:33:23,275 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 19:33:58,041 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 19:34:16,495 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 19:34:19,560 | INFO | case_001: ✅ 42 KB
+2026-06-13 19:34:25,681 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c25cf61f40aba47303032393431/pdf/b72178899eca2bee8d3882beb5535436
+2026-06-13 19:34:28,740 | INFO | case_002: ✅ 60 KB
+2026-06-13 19:34:34,821 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 19:34:37,879 | INFO | case_003: ✅ 1233 KB
+2026-06-13 19:34:44,031 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e998d4d3838174a63f313931323236/pdf/9bc770a1dd47d9f951db97fd29afd1ce
+2026-06-13 19:34:47,090 | INFO | case_004: ✅ 184 KB
+2026-06-13 19:34:53,230 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 19:34:56,290 | INFO | case_005: ✅ 54 KB
+2026-06-13 19:35:05,239 | INFO | case_006: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927f25cfa6d08040313734343030/pdf/35607214f69809f464ac10876ad3e393
+2026-06-13 19:35:11,628 | INFO | case_006: ✅ 60 KB
+2026-06-13 19:35:17,734 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 19:35:20,794 | INFO | case_007: ✅ 61 KB
+2026-06-13 19:35:26,878 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c6754e6e9a8b96f4a2bfae0c1ffeb26e/pdf/c6eef4c08e7d54f350dfd8efaa631b2e
+2026-06-13 19:35:29,945 | INFO | case_008: ✅ 1241 KB
+2026-06-13 19:35:36,092 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e991c30a4b2662b0a4313931373238/pdf/25c53bba2c9ff949fa376ac7f345b258
+2026-06-13 19:35:39,146 | INFO | case_009: ✅ 290 KB
+2026-06-13 19:35:45,281 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d4744e3ec02b270313130313433/pdf/cb948d7eac0ac409bff953d500e2294a
+2026-06-13 19:35:48,341 | INFO | case_010: ✅ 202 KB
+2026-06-13 19:35:54,487 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 19:35:57,544 | INFO | case_011: ✅ 232 KB
+2026-06-13 19:36:03,661 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9933f468745d4af56313633393138/pdf/49f4044dba72cce2460923a8bf39b155
+2026-06-13 19:36:06,717 | INFO | case_012: ✅ 289 KB
+2026-06-13 19:36:12,816 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9951b5fc8ffa098a7303132373231/pdf/71c8ff3ce0942750ad0d7b37ca849774
+2026-06-13 19:36:15,889 | INFO | case_013: ✅ 253 KB
+2026-06-13 19:36:21,984 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 19:36:25,042 | INFO | case_014: ✅ 749 KB
+2026-06-13 19:36:31,166 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99812685a3bbcb6dc323030303433/pdf/8f6fa2c8dd35761dfae2bc0ea5655b9c
+2026-06-13 19:36:34,225 | INFO | case_015: ✅ 432 KB
+2026-06-13 19:36:40,424 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992375628168e8377303930393537/pdf/2a2d8419269863696573daafff0b6093
+2026-06-13 19:38:21,448 | WARNING | case_016: timeout atau file terlalu kecil
+2026-06-13 19:38:27,598 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 19:38:30,655 | INFO | case_017: ✅ 54 KB
+2026-06-13 19:38:36,727 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 19:38:40,808 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 19:38:43,868 | INFO | case_019: ✅ 187 KB
+2026-06-13 19:38:49,960 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 19:38:53,021 | INFO | case_020: ✅ 228 KB
+2026-06-13 19:38:59,060 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 19:39:03,089 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 19:39:07,162 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 19:39:11,230 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c59b5f8a912b425303634313133/pdf/bdf4d24644b4336ee688f1dc3351c82a
+2026-06-13 19:39:14,287 | INFO | case_024: ✅ 218 KB
+2026-06-13 19:39:20,390 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a4a251540ce487a3313934313036/pdf/7da538b8956581f61abf55f7ca3d1858
+2026-06-13 19:39:23,445 | INFO | case_025: ✅ 318 KB
+2026-06-13 19:39:29,504 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c27d8b1b82aa2e313032383339/pdf/872905de26d2791b00afd4f9c089fef2
+2026-06-13 19:39:32,566 | INFO | case_026: ✅ 560 KB
+2026-06-13 19:40:16,526 | WARNING | case_027: tidak ada lampiran PDF → di-skip
+2026-06-13 19:40:20,683 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 19:40:23,735 | INFO | case_028: ✅ 243 KB
+2026-06-13 19:40:29,892 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d55d68fb541ca288c90a8563b92936a0/pdf/434d3cffb172f33915fc8396ac7778b0
+2026-06-13 19:40:32,950 | INFO | case_029: ✅ 1016 KB
+2026-06-13 19:40:39,041 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/24b5e304ce8971707e0e05e1c21a2f2a/pdf/018815ec8c1691425ff3b2762c9804fd
+2026-06-13 19:40:42,101 | INFO | case_030: ✅ 1192 KB
+2026-06-13 19:40:48,266 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 19:40:51,330 | INFO | case_031: ✅ 331 KB
+2026-06-13 19:40:57,444 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 19:41:00,504 | INFO | case_032: ✅ 1244 KB
+2026-06-13 19:41:06,679 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ee6629c36c2e5d45bd14e8b89ecbb34/pdf/6cef23d872e8edbac736c58e265e830d
+2026-06-13 19:41:09,744 | INFO | case_033: ✅ 213 KB
+2026-06-13 19:41:15,884 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 19:41:18,939 | INFO | case_034: ✅ 1693 KB
+2026-06-13 19:41:25,128 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 19:41:29,354 | INFO | case_035: ✅ 184 KB
+2026-06-13 19:41:35,565 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 19:41:38,621 | INFO | case_036: ✅ 865 KB
+2026-06-13 19:41:44,758 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 19:41:47,820 | INFO | case_037: ✅ 152 KB
+2026-06-13 19:41:53,968 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 19:41:57,030 | INFO | case_038: ✅ 1436 KB
+2026-06-13 19:42:03,261 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 19:42:06,322 | INFO | case_039: ✅ 271 KB
+2026-06-13 19:42:12,466 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 19:42:15,527 | INFO | case_040: ✅ 1132 KB
+2026-06-13 19:42:21,794 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 19:42:24,850 | INFO | case_041: ✅ 2385 KB
+2026-06-13 19:42:31,113 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f93ba32ce5d851158a77707906b684f8/pdf/e4a0ae37a01c37bde81d2b6c0ba25dd6
+2026-06-13 19:42:34,180 | INFO | case_042: ✅ 1003 KB
+2026-06-13 19:42:40,310 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 19:42:43,367 | INFO | case_043: ✅ 254 KB
+2026-06-13 19:42:49,509 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 19:42:52,564 | INFO | case_044: ✅ 125 KB
+2026-06-13 19:42:58,697 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 19:42:59,030 | INFO | Pipeline mulai: 38 PDF
+2026-06-13 19:42:59,325 | WARNING | case_001: hanya 175 kata (min 200)
+2026-06-13 19:42:59,537 | WARNING | case_002: hanya 165 kata (min 200)
+2026-06-13 19:43:02,135 | WARNING | case_003: validitas 9.38% < 80%
+2026-06-13 19:43:02,995 | WARNING | case_004: validitas 12.80% < 80%
+2026-06-13 19:43:03,187 | WARNING | case_005: hanya 129 kata (min 200)
+2026-06-13 19:43:03,407 | WARNING | case_006: hanya 129 kata (min 200)
+2026-06-13 19:43:03,642 | WARNING | case_007: hanya 129 kata (min 200)
+2026-06-13 19:43:05,605 | WARNING | case_008: validitas 11.08% < 80%
+2026-06-13 19:43:07,908 | WARNING | case_009: validitas 9.53% < 80%
+2026-06-13 19:43:09,950 | WARNING | case_010: validitas 10.48% < 80%
+2026-06-13 19:43:11,875 | WARNING | case_011: validitas 8.63% < 80%
+2026-06-13 19:43:14,349 | WARNING | case_012: validitas 9.24% < 80%
+2026-06-13 19:43:16,326 | WARNING | case_013: validitas 8.98% < 80%
+2026-06-13 19:43:21,831 | WARNING | case_014: validitas 8.67% < 80%
+2026-06-13 19:43:25,463 | WARNING | case_015: validitas 8.86% < 80%
+2026-06-13 19:43:25,631 | WARNING | case_017: hanya 199 kata (min 200)
+2026-06-13 19:43:26,673 | WARNING | case_019: validitas 9.75% < 80%
+2026-06-13 19:43:27,725 | WARNING | case_020: validitas 10.07% < 80%
+2026-06-13 19:43:29,489 | WARNING | case_024: validitas 9.69% < 80%
+2026-06-13 19:43:32,061 | WARNING | case_025: validitas 9.80% < 80%
+2026-06-13 19:43:38,180 | WARNING | case_026: validitas 8.80% < 80%
+2026-06-13 19:43:40,059 | WARNING | case_028: validitas 9.75% < 80%
+2026-06-13 19:43:41,580 | WARNING | case_029: validitas 12.27% < 80%
+2026-06-13 19:43:43,988 | WARNING | case_030: validitas 9.83% < 80%
+2026-06-13 19:43:46,328 | WARNING | case_031: validitas 9.00% < 80%
+2026-06-13 19:43:48,277 | WARNING | case_032: validitas 10.72% < 80%
+2026-06-13 19:43:49,663 | WARNING | case_033: validitas 11.24% < 80%
+2026-06-13 19:43:52,733 | WARNING | case_034: validitas 10.27% < 80%
+2026-06-13 19:43:54,105 | WARNING | case_035: validitas 10.14% < 80%
+2026-06-13 19:43:55,459 | WARNING | case_036: validitas 10.73% < 80%
+2026-06-13 19:43:56,778 | WARNING | case_037: validitas 8.95% < 80%
+2026-06-13 19:43:59,618 | WARNING | case_038: validitas 12.34% < 80%
+2026-06-13 19:44:02,014 | WARNING | case_039: validitas 9.44% < 80%
+2026-06-13 19:44:03,708 | WARNING | case_040: validitas 13.29% < 80%
+2026-06-13 19:44:08,633 | WARNING | case_041: validitas 10.71% < 80%
+2026-06-13 19:44:10,374 | WARNING | case_042: validitas 10.96% < 80%
+2026-06-13 19:44:11,530 | WARNING | case_043: validitas 12.22% < 80%
+2026-06-13 19:44:12,314 | WARNING | case_044: validitas 13.52% < 80%
+2026-06-13 19:44:12,327 | WARNING | Validasi akhir: KURANG 50 dokumen
+2026-06-13 19:48:01,907 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 19:48:03,930 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 19:48:34,664 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 19:48:52,567 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 19:48:55,623 | INFO | case_001: ✅ 42 KB
+2026-06-13 19:49:01,814 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c25cf61f40aba47303032393431/pdf/b72178899eca2bee8d3882beb5535436
+2026-06-13 19:49:04,871 | INFO | case_002: ✅ 60 KB
+2026-06-13 19:49:11,042 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 19:49:14,100 | INFO | case_003: ✅ 1233 KB
+2026-06-13 19:49:20,332 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e998d4d3838174a63f313931323236/pdf/9bc770a1dd47d9f951db97fd29afd1ce
+2026-06-13 19:49:23,405 | INFO | case_004: ✅ 184 KB
+2026-06-13 19:49:29,572 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 19:49:32,629 | INFO | case_005: ✅ 54 KB
+2026-06-13 19:49:38,807 | INFO | case_006: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927f25cfa6d08040313734343030/pdf/35607214f69809f464ac10876ad3e393
+2026-06-13 19:49:41,868 | INFO | case_006: ✅ 60 KB
+2026-06-13 19:49:48,019 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 19:49:51,082 | INFO | case_007: ✅ 61 KB
+2026-06-13 19:49:57,344 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c6754e6e9a8b96f4a2bfae0c1ffeb26e/pdf/c6eef4c08e7d54f350dfd8efaa631b2e
+2026-06-13 19:50:00,406 | INFO | case_008: ✅ 1241 KB
+2026-06-13 19:50:06,593 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e991c30a4b2662b0a4313931373238/pdf/25c53bba2c9ff949fa376ac7f345b258
+2026-06-13 19:50:09,648 | INFO | case_009: ✅ 290 KB
+2026-06-13 19:50:15,808 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d4744e3ec02b270313130313433/pdf/cb948d7eac0ac409bff953d500e2294a
+2026-06-13 19:50:18,869 | INFO | case_010: ✅ 202 KB
+2026-06-13 19:50:25,045 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 19:50:28,110 | INFO | case_011: ✅ 232 KB
+2026-06-13 19:50:34,300 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9933f468745d4af56313633393138/pdf/49f4044dba72cce2460923a8bf39b155
+2026-06-13 19:50:37,361 | INFO | case_012: ✅ 289 KB
+2026-06-13 19:50:43,542 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9951b5fc8ffa098a7303132373231/pdf/71c8ff3ce0942750ad0d7b37ca849774
+2026-06-13 19:50:46,605 | INFO | case_013: ✅ 253 KB
+2026-06-13 19:50:52,746 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 19:50:55,806 | INFO | case_014: ✅ 749 KB
+2026-06-13 19:51:01,970 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99812685a3bbcb6dc323030303433/pdf/8f6fa2c8dd35761dfae2bc0ea5655b9c
+2026-06-13 19:51:05,030 | INFO | case_015: ✅ 432 KB
+2026-06-13 19:51:11,297 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992375628168e8377303930393537/pdf/2a2d8419269863696573daafff0b6093
+2026-06-13 19:52:52,344 | WARNING | case_016: timeout atau file terlalu kecil
+2026-06-13 19:52:58,511 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 19:53:01,566 | INFO | case_017: ✅ 54 KB
+2026-06-13 19:53:07,740 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 19:53:11,927 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 19:53:14,985 | INFO | case_019: ✅ 187 KB
+2026-06-13 19:53:21,114 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 19:53:24,170 | INFO | case_020: ✅ 228 KB
+2026-06-13 19:53:30,239 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 19:53:34,297 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 19:53:38,364 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 19:53:42,458 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c59b5f8a912b425303634313133/pdf/bdf4d24644b4336ee688f1dc3351c82a
+2026-06-13 19:53:45,511 | INFO | case_024: ✅ 218 KB
+2026-06-13 19:53:51,638 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a4a251540ce487a3313934313036/pdf/7da538b8956581f61abf55f7ca3d1858
+2026-06-13 19:53:54,693 | INFO | case_025: ✅ 318 KB
+2026-06-13 19:54:00,843 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c27d8b1b82aa2e313032383339/pdf/872905de26d2791b00afd4f9c089fef2
+2026-06-13 19:54:03,903 | INFO | case_026: ✅ 560 KB
+2026-06-13 19:54:47,941 | WARNING | case_027: tidak ada lampiran PDF → di-skip
+2026-06-13 19:54:52,046 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 19:54:55,111 | INFO | case_028: ✅ 243 KB
+2026-06-13 19:55:01,225 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d55d68fb541ca288c90a8563b92936a0/pdf/434d3cffb172f33915fc8396ac7778b0
+2026-06-13 19:55:04,279 | INFO | case_029: ✅ 1016 KB
+2026-06-13 19:55:10,373 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/24b5e304ce8971707e0e05e1c21a2f2a/pdf/018815ec8c1691425ff3b2762c9804fd
+2026-06-13 19:55:13,429 | INFO | case_030: ✅ 1192 KB
+2026-06-13 19:55:19,594 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 19:55:22,651 | INFO | case_031: ✅ 331 KB
+2026-06-13 19:55:28,739 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 19:55:31,794 | INFO | case_032: ✅ 1244 KB
+2026-06-13 19:55:37,929 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ee6629c36c2e5d45bd14e8b89ecbb34/pdf/6cef23d872e8edbac736c58e265e830d
+2026-06-13 19:55:40,983 | INFO | case_033: ✅ 213 KB
+2026-06-13 19:55:47,112 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 19:55:50,166 | INFO | case_034: ✅ 1693 KB
+2026-06-13 19:55:56,290 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 19:55:59,350 | INFO | case_035: ✅ 184 KB
+2026-06-13 19:56:05,453 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 19:56:08,511 | INFO | case_036: ✅ 865 KB
+2026-06-13 19:56:14,677 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 19:56:17,732 | INFO | case_037: ✅ 152 KB
+2026-06-13 19:56:23,868 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 19:56:26,927 | INFO | case_038: ✅ 1436 KB
+2026-06-13 19:56:33,064 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 19:56:36,122 | INFO | case_039: ✅ 271 KB
+2026-06-13 19:56:42,290 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 19:56:45,342 | INFO | case_040: ✅ 1132 KB
+2026-06-13 19:56:51,439 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 19:56:54,493 | INFO | case_041: ✅ 2385 KB
+2026-06-13 19:57:00,621 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f93ba32ce5d851158a77707906b684f8/pdf/e4a0ae37a01c37bde81d2b6c0ba25dd6
+2026-06-13 19:57:03,681 | INFO | case_042: ✅ 1003 KB
+2026-06-13 19:57:09,825 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 19:57:12,880 | INFO | case_043: ✅ 254 KB
+2026-06-13 19:57:18,961 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 19:57:22,017 | INFO | case_044: ✅ 125 KB
+2026-06-13 19:57:28,136 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 19:57:28,530 | INFO | Pipeline mulai: 38 PDF
+2026-06-13 19:57:28,796 | INFO | case_001: ✅ 175 kata, validitas=20.53%
+2026-06-13 19:57:29,009 | WARNING | case_002: validitas karakter 18.18% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:31,604 | WARNING | case_003: validitas karakter 9.06% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:32,471 | WARNING | case_004: validitas karakter 13.47% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:32,686 | WARNING | case_005: validitas karakter 15.75% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:32,904 | WARNING | case_006: validitas karakter 14.65% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:33,135 | WARNING | case_007: validitas karakter 14.39% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:35,045 | WARNING | case_008: validitas karakter 11.74% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:37,309 | WARNING | case_009: validitas karakter 10.57% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:39,360 | WARNING | case_010: validitas karakter 11.36% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:41,246 | WARNING | case_011: validitas karakter 9.92% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:43,718 | WARNING | case_012: validitas karakter 10.74% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:45,680 | WARNING | case_013: validitas karakter 9.97% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:51,190 | WARNING | case_014: validitas karakter 9.81% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:55,018 | WARNING | case_015: validitas karakter 10.28% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:55,176 | INFO | case_017: ✅ 199 kata, validitas=35.41%
+2026-06-13 19:57:56,229 | WARNING | case_019: validitas karakter 10.11% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:57,293 | WARNING | case_020: validitas karakter 10.76% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:57:59,064 | WARNING | case_024: validitas karakter 10.95% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:01,672 | WARNING | case_025: validitas karakter 10.69% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:07,695 | WARNING | case_026: validitas karakter 9.92% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:09,539 | WARNING | case_028: validitas karakter 9.93% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:11,031 | WARNING | case_029: validitas karakter 13.03% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:13,435 | WARNING | case_030: validitas karakter 9.59% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:15,673 | WARNING | case_031: validitas karakter 10.05% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:17,579 | WARNING | case_032: validitas karakter 11.13% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:18,965 | WARNING | case_033: validitas karakter 10.62% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:22,021 | WARNING | case_034: validitas karakter 10.00% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:23,399 | WARNING | case_035: validitas karakter 9.39% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:24,767 | WARNING | case_036: validitas karakter 11.43% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:26,028 | WARNING | case_037: validitas karakter 10.29% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:28,849 | WARNING | case_038: validitas karakter 13.04% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:31,216 | WARNING | case_039: validitas karakter 10.41% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:32,861 | WARNING | case_040: validitas karakter 12.37% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:37,725 | WARNING | case_041: validitas karakter 11.57% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:39,421 | WARNING | case_042: validitas karakter 12.31% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:40,567 | WARNING | case_043: validitas karakter 12.29% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:41,351 | WARNING | case_044: validitas karakter 13.09% < 20% — kemungkinan PDF corrupt
+2026-06-13 19:58:41,365 | WARNING | Validasi akhir: KURANG 48 dokumen
+2026-06-13 20:09:27,724 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 20:09:29,806 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 20:10:01,275 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 20:10:19,407 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 20:10:22,465 | INFO | case_001: ✅ 42 KB
+2026-06-13 20:10:28,584 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c25cf61f40aba47303032393431/pdf/b72178899eca2bee8d3882beb5535436
+2026-06-13 20:10:31,644 | INFO | case_002: ✅ 60 KB
+2026-06-13 20:10:37,745 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 20:10:40,805 | INFO | case_003: ✅ 1233 KB
+2026-06-13 20:10:46,956 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e998d4d3838174a63f313931323236/pdf/9bc770a1dd47d9f951db97fd29afd1ce
+2026-06-13 20:10:50,016 | INFO | case_004: ✅ 184 KB
+2026-06-13 20:10:56,178 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 20:10:59,239 | INFO | case_005: ✅ 54 KB
+2026-06-13 20:11:05,367 | INFO | case_006: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927f25cfa6d08040313734343030/pdf/35607214f69809f464ac10876ad3e393
+2026-06-13 20:11:08,433 | INFO | case_006: ✅ 60 KB
+2026-06-13 20:11:14,525 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 20:11:17,585 | INFO | case_007: ✅ 61 KB
+2026-06-13 20:11:23,682 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c6754e6e9a8b96f4a2bfae0c1ffeb26e/pdf/c6eef4c08e7d54f350dfd8efaa631b2e
+2026-06-13 20:11:26,742 | INFO | case_008: ✅ 1241 KB
+2026-06-13 20:11:32,877 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e991c30a4b2662b0a4313931373238/pdf/25c53bba2c9ff949fa376ac7f345b258
+2026-06-13 20:11:35,934 | INFO | case_009: ✅ 290 KB
+2026-06-13 20:11:42,029 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d4744e3ec02b270313130313433/pdf/cb948d7eac0ac409bff953d500e2294a
+2026-06-13 20:11:45,090 | INFO | case_010: ✅ 202 KB
+2026-06-13 20:11:51,197 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 20:11:54,266 | INFO | case_011: ✅ 232 KB
+2026-06-13 20:12:00,418 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9933f468745d4af56313633393138/pdf/49f4044dba72cce2460923a8bf39b155
+2026-06-13 20:12:03,478 | INFO | case_012: ✅ 289 KB
+2026-06-13 20:12:09,574 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9951b5fc8ffa098a7303132373231/pdf/71c8ff3ce0942750ad0d7b37ca849774
+2026-06-13 20:12:12,632 | INFO | case_013: ✅ 253 KB
+2026-06-13 20:12:18,768 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 20:12:21,830 | INFO | case_014: ✅ 749 KB
+2026-06-13 20:12:27,928 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99812685a3bbcb6dc323030303433/pdf/8f6fa2c8dd35761dfae2bc0ea5655b9c
+2026-06-13 20:12:30,988 | INFO | case_015: ✅ 432 KB
+2026-06-13 20:12:37,101 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992375628168e8377303930393537/pdf/2a2d8419269863696573daafff0b6093
+2026-06-13 20:14:18,512 | WARNING | case_016: timeout atau file terlalu kecil
+2026-06-13 20:14:24,635 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 20:14:27,695 | INFO | case_017: ✅ 54 KB
+2026-06-13 20:14:33,777 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 20:14:37,843 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 20:14:40,899 | INFO | case_019: ✅ 187 KB
+2026-06-13 20:14:46,985 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 20:14:50,041 | INFO | case_020: ✅ 228 KB
+2026-06-13 20:14:56,097 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 20:15:00,148 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 20:15:04,211 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 20:15:08,356 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c59b5f8a912b425303634313133/pdf/bdf4d24644b4336ee688f1dc3351c82a
+2026-06-13 20:15:11,416 | INFO | case_024: ✅ 218 KB
+2026-06-13 20:15:17,546 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a4a251540ce487a3313934313036/pdf/7da538b8956581f61abf55f7ca3d1858
+2026-06-13 20:15:20,602 | INFO | case_025: ✅ 318 KB
+2026-06-13 20:15:26,690 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c27d8b1b82aa2e313032383339/pdf/872905de26d2791b00afd4f9c089fef2
+2026-06-13 20:15:29,743 | INFO | case_026: ✅ 560 KB
+2026-06-13 20:16:13,578 | WARNING | case_027: tidak ada lampiran PDF → di-skip
+2026-06-13 20:16:17,679 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 20:16:20,737 | INFO | case_028: ✅ 243 KB
+2026-06-13 20:16:26,945 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d55d68fb541ca288c90a8563b92936a0/pdf/434d3cffb172f33915fc8396ac7778b0
+2026-06-13 20:16:30,009 | INFO | case_029: ✅ 1016 KB
+2026-06-13 20:16:36,126 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/24b5e304ce8971707e0e05e1c21a2f2a/pdf/018815ec8c1691425ff3b2762c9804fd
+2026-06-13 20:16:39,188 | INFO | case_030: ✅ 1192 KB
+2026-06-13 20:16:45,364 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 20:16:48,423 | INFO | case_031: ✅ 331 KB
+2026-06-13 20:16:54,514 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 20:16:57,573 | INFO | case_032: ✅ 1244 KB
+2026-06-13 20:17:03,817 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ee6629c36c2e5d45bd14e8b89ecbb34/pdf/6cef23d872e8edbac736c58e265e830d
+2026-06-13 20:17:06,873 | INFO | case_033: ✅ 213 KB
+2026-06-13 20:17:13,001 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 20:17:16,061 | INFO | case_034: ✅ 1693 KB
+2026-06-13 20:17:22,198 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 20:17:25,268 | INFO | case_035: ✅ 184 KB
+2026-06-13 20:17:31,355 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 20:17:34,417 | INFO | case_036: ✅ 865 KB
+2026-06-13 20:17:40,501 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 20:17:43,555 | INFO | case_037: ✅ 152 KB
+2026-06-13 20:17:49,666 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 20:17:52,725 | INFO | case_038: ✅ 1436 KB
+2026-06-13 20:17:58,863 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 20:18:01,916 | INFO | case_039: ✅ 271 KB
+2026-06-13 20:18:08,029 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 20:18:11,091 | INFO | case_040: ✅ 1132 KB
+2026-06-13 20:18:17,196 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 20:18:20,253 | INFO | case_041: ✅ 2385 KB
+2026-06-13 20:18:26,413 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f93ba32ce5d851158a77707906b684f8/pdf/e4a0ae37a01c37bde81d2b6c0ba25dd6
+2026-06-13 20:18:29,466 | INFO | case_042: ✅ 1003 KB
+2026-06-13 20:18:35,618 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 20:18:38,674 | INFO | case_043: ✅ 254 KB
+2026-06-13 20:18:44,767 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 20:18:47,823 | INFO | case_044: ✅ 125 KB
+2026-06-13 20:18:53,879 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 20:18:54,810 | INFO | Pipeline mulai: 38 PDF
+2026-06-13 20:18:54,813 | INFO | case_001: teks sudah ada, skip
+2026-06-13 20:18:55,026 | INFO | case_002.pdf: pdfminer OK (7159 chars)
+2026-06-13 20:18:55,033 | INFO | case_002: ✅ 165 kata, validitas=18.18%
+2026-06-13 20:18:57,607 | INFO | case_003.pdf: pdfminer OK (93238 chars)
+2026-06-13 20:18:57,614 | INFO | case_003: ✅ 1189 kata, validitas=9.06%
+2026-06-13 20:18:58,480 | INFO | case_004.pdf: pdfminer OK (34549 chars)
+2026-06-13 20:18:58,500 | INFO | case_004: ✅ 589 kata, validitas=13.47%
+2026-06-13 20:18:58,692 | INFO | case_005.pdf: pdfminer OK (6626 chars)
+2026-06-13 20:18:58,694 | INFO | case_005: ✅ 129 kata, validitas=15.75%
+2026-06-13 20:18:58,914 | INFO | case_006.pdf: pdfminer OK (7139 chars)
+2026-06-13 20:18:58,916 | INFO | case_006: ✅ 129 kata, validitas=14.65%
+2026-06-13 20:18:59,150 | INFO | case_007.pdf: pdfminer OK (7765 chars)
+2026-06-13 20:18:59,151 | INFO | case_007: ✅ 129 kata, validitas=14.39%
+2026-06-13 20:19:01,110 | INFO | case_008.pdf: pdfminer OK (71769 chars)
+2026-06-13 20:19:01,116 | INFO | case_008: ✅ 1079 kata, validitas=11.74%
+2026-06-13 20:19:03,373 | INFO | case_009.pdf: pdfminer OK (90939 chars)
+2026-06-13 20:19:03,379 | INFO | case_009: ✅ 1200 kata, validitas=10.57%
+2026-06-13 20:19:05,514 | INFO | case_010.pdf: pdfminer OK (86280 chars)
+2026-06-13 20:19:05,521 | INFO | case_010: ✅ 1232 kata, validitas=11.36%
+2026-06-13 20:19:07,486 | INFO | case_011.pdf: pdfminer OK (73049 chars)
+2026-06-13 20:19:07,489 | INFO | case_011: ✅ 902 kata, validitas=9.92%
+2026-06-13 20:19:09,971 | INFO | case_012.pdf: pdfminer OK (93133 chars)
+2026-06-13 20:19:09,978 | INFO | case_012: ✅ 1245 kata, validitas=10.74%
+2026-06-13 20:19:11,946 | INFO | case_013.pdf: pdfminer OK (84915 chars)
+2026-06-13 20:19:11,951 | INFO | case_013: ✅ 1041 kata, validitas=9.97%
+2026-06-13 20:19:17,442 | INFO | case_014.pdf: pdfminer OK (245271 chars)
+2026-06-13 20:19:17,455 | INFO | case_014: ✅ 3012 kata, validitas=9.81%
+2026-06-13 20:19:21,200 | INFO | case_015.pdf: pdfminer OK (148229 chars)
+2026-06-13 20:19:21,209 | INFO | case_015: ✅ 1890 kata, validitas=10.28%
+2026-06-13 20:19:21,210 | INFO | case_017: teks sudah ada, skip
+2026-06-13 20:19:22,265 | INFO | case_019.pdf: pdfminer OK (38910 chars)
+2026-06-13 20:19:22,269 | INFO | case_019: ✅ 492 kata, validitas=10.11%
+2026-06-13 20:19:23,359 | INFO | case_020.pdf: pdfminer OK (43427 chars)
+2026-06-13 20:19:23,362 | INFO | case_020: ✅ 582 kata, validitas=10.76%
+2026-06-13 20:19:25,147 | INFO | case_024.pdf: pdfminer OK (66013 chars)
+2026-06-13 20:19:25,151 | INFO | case_024: ✅ 902 kata, validitas=10.95%
+2026-06-13 20:19:27,725 | INFO | case_025.pdf: pdfminer OK (105229 chars)
+2026-06-13 20:19:27,733 | INFO | case_025: ✅ 1379 kata, validitas=10.69%
+2026-06-13 20:19:33,737 | INFO | case_026.pdf: pdfminer OK (268311 chars)
+2026-06-13 20:19:33,757 | INFO | case_026: ✅ 3340 kata, validitas=9.92%
+2026-06-13 20:19:35,658 | INFO | case_028.pdf: pdfminer OK (75705 chars)
+2026-06-13 20:19:35,663 | INFO | case_028: ✅ 943 kata, validitas=9.93%
+2026-06-13 20:19:37,204 | INFO | case_029.pdf: pdfminer OK (60130 chars)
+2026-06-13 20:19:37,209 | INFO | case_029: ✅ 984 kata, validitas=13.03%
+2026-06-13 20:19:39,660 | INFO | case_030.pdf: pdfminer OK (82262 chars)
+2026-06-13 20:19:39,667 | INFO | case_030: ✅ 1107 kata, validitas=9.59%
+2026-06-13 20:19:41,929 | INFO | case_031.pdf: pdfminer OK (90941 chars)
+2026-06-13 20:19:41,934 | INFO | case_031: ✅ 1152 kata, validitas=10.05%
+2026-06-13 20:19:43,916 | INFO | case_032.pdf: pdfminer OK (81041 chars)
+2026-06-13 20:19:43,920 | INFO | case_032: ✅ 1140 kata, validitas=11.13%
+2026-06-13 20:19:45,313 | INFO | case_033.pdf: pdfminer OK (78021 chars)
+2026-06-13 20:19:45,318 | INFO | case_033: ✅ 1055 kata, validitas=10.62%
+2026-06-13 20:19:48,483 | INFO | case_034.pdf: pdfminer OK (120295 chars)
+2026-06-13 20:19:48,491 | INFO | case_034: ✅ 1519 kata, validitas=10.00%
+2026-06-13 20:19:49,937 | INFO | case_035.pdf: pdfminer OK (80170 chars)
+2026-06-13 20:19:49,944 | INFO | case_035: ✅ 962 kata, validitas=9.39%
+2026-06-13 20:19:51,289 | INFO | case_036.pdf: pdfminer OK (58100 chars)
+2026-06-13 20:19:51,294 | INFO | case_036: ✅ 824 kata, validitas=11.43%
+2026-06-13 20:19:52,609 | INFO | case_037.pdf: pdfminer OK (51280 chars)
+2026-06-13 20:19:52,612 | INFO | case_037: ✅ 656 kata, validitas=10.29%
+2026-06-13 20:19:55,468 | INFO | case_038.pdf: pdfminer OK (119975 chars)
+2026-06-13 20:19:55,476 | INFO | case_038: ✅ 1968 kata, validitas=13.04%
+2026-06-13 20:19:57,841 | INFO | case_039.pdf: pdfminer OK (98435 chars)
+2026-06-13 20:19:57,849 | INFO | case_039: ✅ 1279 kata, validitas=10.41%
+2026-06-13 20:19:59,531 | INFO | case_040.pdf: pdfminer OK (66397 chars)
+2026-06-13 20:19:59,535 | INFO | case_040: ✅ 1044 kata, validitas=12.37%
+2026-06-13 20:20:04,478 | INFO | case_041.pdf: pdfminer OK (212822 chars)
+2026-06-13 20:20:04,493 | INFO | case_041: ✅ 3108 kata, validitas=11.57%
+2026-06-13 20:20:06,212 | INFO | case_042.pdf: pdfminer OK (54149 chars)
+2026-06-13 20:20:06,216 | INFO | case_042: ✅ 854 kata, validitas=12.31%
+2026-06-13 20:20:07,402 | INFO | case_043.pdf: pdfminer OK (49367 chars)
+2026-06-13 20:20:07,406 | INFO | case_043: ✅ 766 kata, validitas=12.29%
+2026-06-13 20:20:08,188 | INFO | case_044.pdf: pdfminer OK (36980 chars)
+2026-06-13 20:20:08,191 | INFO | case_044: ✅ 618 kata, validitas=13.09%
+2026-06-13 20:20:08,203 | WARNING | Validasi akhir: KURANG 12 dokumen
+2026-06-13 20:33:01,527 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 20:33:03,489 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 20:33:34,715 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 20:33:52,578 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 20:33:55,636 | INFO | case_001: ✅ 42 KB
+2026-06-13 20:34:01,519 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c25cf61f40aba47303032393431/pdf/b72178899eca2bee8d3882beb5535436
+2026-06-13 20:34:04,582 | INFO | case_002: ✅ 60 KB
+2026-06-13 20:34:10,430 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 20:34:13,489 | INFO | case_003: ✅ 1233 KB
+2026-06-13 20:34:19,346 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e998d4d3838174a63f313931323236/pdf/9bc770a1dd47d9f951db97fd29afd1ce
+2026-06-13 20:34:22,403 | INFO | case_004: ✅ 184 KB
+2026-06-13 20:34:28,241 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 20:34:31,300 | INFO | case_005: ✅ 54 KB
+2026-06-13 20:34:37,132 | INFO | case_006: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927f25cfa6d08040313734343030/pdf/35607214f69809f464ac10876ad3e393
+2026-06-13 20:34:40,192 | INFO | case_006: ✅ 60 KB
+2026-06-13 20:34:46,033 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 20:34:49,128 | INFO | case_007: ✅ 61 KB
+2026-06-13 20:34:54,971 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c6754e6e9a8b96f4a2bfae0c1ffeb26e/pdf/c6eef4c08e7d54f350dfd8efaa631b2e
+2026-06-13 20:34:58,027 | INFO | case_008: ✅ 1241 KB
+2026-06-13 20:35:03,874 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e991c30a4b2662b0a4313931373238/pdf/25c53bba2c9ff949fa376ac7f345b258
+2026-06-13 20:35:06,938 | INFO | case_009: ✅ 290 KB
+2026-06-13 20:35:12,787 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d4744e3ec02b270313130313433/pdf/cb948d7eac0ac409bff953d500e2294a
+2026-06-13 20:35:15,844 | INFO | case_010: ✅ 202 KB
+2026-06-13 20:35:21,712 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 20:35:24,767 | INFO | case_011: ✅ 232 KB
+2026-06-13 20:35:30,647 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9933f468745d4af56313633393138/pdf/49f4044dba72cce2460923a8bf39b155
+2026-06-13 20:35:33,705 | INFO | case_012: ✅ 289 KB
+2026-06-13 20:35:39,573 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9951b5fc8ffa098a7303132373231/pdf/71c8ff3ce0942750ad0d7b37ca849774
+2026-06-13 20:35:42,628 | INFO | case_013: ✅ 253 KB
+2026-06-13 20:35:48,518 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 20:35:51,577 | INFO | case_014: ✅ 749 KB
+2026-06-13 20:35:57,401 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99812685a3bbcb6dc323030303433/pdf/8f6fa2c8dd35761dfae2bc0ea5655b9c
+2026-06-13 20:36:00,461 | INFO | case_015: ✅ 432 KB
+2026-06-13 20:36:06,304 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992375628168e8377303930393537/pdf/2a2d8419269863696573daafff0b6093
+2026-06-13 20:36:32,610 | INFO | case_016: ✅ 368 KB
+2026-06-13 20:36:38,501 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 20:36:41,651 | INFO | case_017: ✅ 54 KB
+2026-06-13 20:36:47,591 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 20:36:51,435 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 20:36:54,495 | INFO | case_019: ✅ 187 KB
+2026-06-13 20:37:00,345 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 20:37:03,406 | INFO | case_020: ✅ 228 KB
+2026-06-13 20:37:09,343 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 20:37:13,244 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 20:37:17,152 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 20:37:21,013 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c59b5f8a912b425303634313133/pdf/bdf4d24644b4336ee688f1dc3351c82a
+2026-06-13 20:37:24,079 | INFO | case_024: ✅ 218 KB
+2026-06-13 20:37:29,943 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a4a251540ce487a3313934313036/pdf/7da538b8956581f61abf55f7ca3d1858
+2026-06-13 20:37:33,004 | INFO | case_025: ✅ 318 KB
+2026-06-13 20:37:38,906 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c27d8b1b82aa2e313032383339/pdf/872905de26d2791b00afd4f9c089fef2
+2026-06-13 20:37:41,965 | INFO | case_026: ✅ 560 KB
+2026-06-13 20:37:49,559 | INFO | case_027: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dc85330ab769c12313734353134/pdf/0eb649d9ee34e1cdebfcdf2b7cbafb82
+2026-06-13 20:37:55,956 | INFO | case_027: ✅ 293 KB
+2026-06-13 20:38:02,083 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 20:38:05,139 | INFO | case_028: ✅ 243 KB
+2026-06-13 20:38:11,294 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d55d68fb541ca288c90a8563b92936a0/pdf/434d3cffb172f33915fc8396ac7778b0
+2026-06-13 20:38:14,356 | INFO | case_029: ✅ 1016 KB
+2026-06-13 20:38:20,538 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/24b5e304ce8971707e0e05e1c21a2f2a/pdf/018815ec8c1691425ff3b2762c9804fd
+2026-06-13 20:38:23,599 | INFO | case_030: ✅ 1192 KB
+2026-06-13 20:38:29,757 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 20:38:32,831 | INFO | case_031: ✅ 331 KB
+2026-06-13 20:38:38,928 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 20:38:42,005 | INFO | case_032: ✅ 1244 KB
+2026-06-13 20:38:48,189 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ee6629c36c2e5d45bd14e8b89ecbb34/pdf/6cef23d872e8edbac736c58e265e830d
+2026-06-13 20:38:51,255 | INFO | case_033: ✅ 213 KB
+2026-06-13 20:38:57,437 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 20:39:00,494 | INFO | case_034: ✅ 1693 KB
+2026-06-13 20:39:06,643 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 20:39:09,701 | INFO | case_035: ✅ 184 KB
+2026-06-13 20:39:15,809 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 20:39:18,911 | INFO | case_036: ✅ 865 KB
+2026-06-13 20:39:25,051 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 20:39:28,114 | INFO | case_037: ✅ 152 KB
+2026-06-13 20:39:34,323 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 20:39:37,385 | INFO | case_038: ✅ 1436 KB
+2026-06-13 20:39:43,494 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 20:39:46,566 | INFO | case_039: ✅ 271 KB
+2026-06-13 20:39:52,711 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 20:39:55,777 | INFO | case_040: ✅ 1132 KB
+2026-06-13 20:40:01,956 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 20:40:05,021 | INFO | case_041: ✅ 2385 KB
+2026-06-13 20:40:11,149 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f93ba32ce5d851158a77707906b684f8/pdf/e4a0ae37a01c37bde81d2b6c0ba25dd6
+2026-06-13 20:40:14,207 | INFO | case_042: ✅ 1003 KB
+2026-06-13 20:40:20,379 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 20:40:23,446 | INFO | case_043: ✅ 254 KB
+2026-06-13 20:40:29,546 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 20:40:32,637 | INFO | case_044: ✅ 125 KB
+2026-06-13 20:40:38,751 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 20:40:39,592 | INFO | Pipeline mulai: 39 PDF
+2026-06-13 20:40:39,824 | INFO | case_001.pdf: pdfminer OK (6056 chars konten)
+2026-06-13 20:40:39,831 | INFO | case_001: ✅ 175 kata, validitas=20.53%
+2026-06-13 20:40:40,057 | INFO | case_002.pdf: pdfminer OK (6187 chars konten)
+2026-06-13 20:40:40,059 | INFO | case_002: ✅ 165 kata, validitas=18.18%
+2026-06-13 20:40:42,733 | INFO | case_003.pdf: pdfminer OK (82213 chars konten)
+2026-06-13 20:40:42,741 | INFO | case_003: ✅ 1189 kata, validitas=9.06%
+2026-06-13 20:40:43,630 | INFO | case_004.pdf: pdfminer OK (30619 chars konten)
+2026-06-13 20:40:43,633 | INFO | case_004: ✅ 589 kata, validitas=13.47%
+2026-06-13 20:40:43,828 | INFO | case_005.pdf: pdfminer OK (5639 chars konten)
+2026-06-13 20:40:43,829 | INFO | case_005: ✅ 129 kata, validitas=15.75%
+2026-06-13 20:40:44,084 | INFO | case_006.pdf: pdfminer OK (6146 chars konten)
+2026-06-13 20:40:44,086 | INFO | case_006: ✅ 129 kata, validitas=14.65%
+2026-06-13 20:40:44,320 | INFO | case_007.pdf: pdfminer OK (6768 chars konten)
+2026-06-13 20:40:44,322 | INFO | case_007: ✅ 129 kata, validitas=14.39%
+2026-06-13 20:40:46,264 | INFO | case_008.pdf: pdfminer OK (64649 chars konten)
+2026-06-13 20:40:46,270 | INFO | case_008: ✅ 1079 kata, validitas=11.74%
+2026-06-13 20:40:48,557 | INFO | case_009.pdf: pdfminer OK (81540 chars konten)
+2026-06-13 20:40:48,563 | INFO | case_009: ✅ 1200 kata, validitas=10.57%
+2026-06-13 20:40:50,606 | INFO | case_010.pdf: pdfminer OK (76891 chars konten)
+2026-06-13 20:40:50,612 | INFO | case_010: ✅ 1232 kata, validitas=11.36%
+2026-06-13 20:40:52,540 | INFO | case_011.pdf: pdfminer OK (13447 chars konten)
+2026-06-13 20:40:52,545 | INFO | case_011: ✅ 902 kata, validitas=9.92%
+2026-06-13 20:40:55,082 | INFO | case_012.pdf: pdfminer OK (82661 chars konten)
+2026-06-13 20:40:55,088 | INFO | case_012: ✅ 1245 kata, validitas=10.74%
+2026-06-13 20:40:57,071 | INFO | case_013.pdf: pdfminer OK (76816 chars konten)
+2026-06-13 20:40:57,078 | INFO | case_013: ✅ 1041 kata, validitas=9.97%
+2026-06-13 20:41:02,611 | INFO | case_014.pdf: pdfminer OK (221621 chars konten)
+2026-06-13 20:41:02,625 | INFO | case_014: ✅ 3012 kata, validitas=9.81%
+2026-06-13 20:41:06,287 | INFO | case_015.pdf: pdfminer OK (133647 chars konten)
+2026-06-13 20:41:06,297 | INFO | case_015: ✅ 1890 kata, validitas=10.28%
+2026-06-13 20:41:10,422 | INFO | case_016.pdf: pdfminer OK (153237 chars konten)
+2026-06-13 20:41:10,433 | INFO | case_016: ✅ 2387 kata, validitas=11.11%
+2026-06-13 20:41:10,594 | INFO | case_017.pdf: pdfminer OK (3283 chars konten)
+2026-06-13 20:41:10,595 | INFO | case_017: ✅ 199 kata, validitas=35.41%
+2026-06-13 20:41:11,649 | INFO | case_019.pdf: pdfminer OK (7357 chars konten)
+2026-06-13 20:41:11,653 | INFO | case_019: ✅ 492 kata, validitas=10.11%
+2026-06-13 20:41:12,729 | INFO | case_020.pdf: pdfminer OK (38869 chars konten)
+2026-06-13 20:41:12,733 | INFO | case_020: ✅ 582 kata, validitas=10.76%
+2026-06-13 20:41:14,504 | INFO | case_024.pdf: pdfminer OK (13447 chars konten)
+2026-06-13 20:41:14,508 | INFO | case_024: ✅ 902 kata, validitas=10.95%
+2026-06-13 20:41:17,117 | INFO | case_025.pdf: pdfminer OK (94862 chars konten)
+2026-06-13 20:41:17,125 | INFO | case_025: ✅ 1379 kata, validitas=10.69%
+2026-06-13 20:41:23,286 | INFO | case_026.pdf: pdfminer OK (242397 chars konten)
+2026-06-13 20:41:23,305 | INFO | case_026: ✅ 3340 kata, validitas=9.92%
+2026-06-13 20:41:26,775 | INFO | case_027.pdf: pdfminer OK (125770 chars konten)
+2026-06-13 20:41:26,783 | INFO | case_027: ✅ 1651 kata, validitas=9.74%
+2026-06-13 20:41:28,709 | INFO | case_028.pdf: pdfminer OK (14056 chars konten)
+2026-06-13 20:41:28,713 | INFO | case_028: ✅ 943 kata, validitas=9.93%
+2026-06-13 20:41:30,227 | INFO | case_029.pdf: pdfminer OK (50857 chars konten)
+2026-06-13 20:41:30,231 | INFO | case_029: ✅ 984 kata, validitas=13.03%
+2026-06-13 20:41:32,716 | INFO | case_030.pdf: pdfminer OK (71998 chars konten)
+2026-06-13 20:41:32,723 | INFO | case_030: ✅ 1107 kata, validitas=9.59%
+2026-06-13 20:41:34,991 | INFO | case_031.pdf: pdfminer OK (82194 chars konten)
+2026-06-13 20:41:34,997 | INFO | case_031: ✅ 1152 kata, validitas=10.05%
+2026-06-13 20:41:37,002 | INFO | case_032.pdf: pdfminer OK (72625 chars konten)
+2026-06-13 20:41:37,008 | INFO | case_032: ✅ 1140 kata, validitas=11.13%
+2026-06-13 20:41:38,445 | INFO | case_033.pdf: pdfminer OK (70577 chars konten)
+2026-06-13 20:41:38,451 | INFO | case_033: ✅ 1055 kata, validitas=10.62%
+2026-06-13 20:41:41,571 | INFO | case_034.pdf: pdfminer OK (108638 chars konten)
+2026-06-13 20:41:41,578 | INFO | case_034: ✅ 1519 kata, validitas=10.00%
+2026-06-13 20:41:42,999 | INFO | case_035.pdf: pdfminer OK (70267 chars konten)
+2026-06-13 20:41:43,005 | INFO | case_035: ✅ 962 kata, validitas=9.39%
+2026-06-13 20:41:44,394 | INFO | case_036.pdf: pdfminer OK (51628 chars konten)
+2026-06-13 20:41:44,399 | INFO | case_036: ✅ 824 kata, validitas=11.43%
+2026-06-13 20:41:45,693 | INFO | case_037.pdf: pdfminer OK (9793 chars konten)
+2026-06-13 20:41:45,697 | INFO | case_037: ✅ 656 kata, validitas=10.29%
+2026-06-13 20:41:48,586 | INFO | case_038.pdf: pdfminer OK (101697 chars konten)
+2026-06-13 20:41:48,593 | INFO | case_038: ✅ 1968 kata, validitas=13.04%
+2026-06-13 20:41:51,042 | INFO | case_039.pdf: pdfminer OK (88372 chars konten)
+2026-06-13 20:41:51,051 | INFO | case_039: ✅ 1279 kata, validitas=10.41%
+2026-06-13 20:41:52,760 | INFO | case_040.pdf: pdfminer OK (58050 chars konten)
+2026-06-13 20:41:52,765 | INFO | case_040: ✅ 1044 kata, validitas=12.37%
+2026-06-13 20:41:57,768 | INFO | case_041.pdf: pdfminer OK (188530 chars konten)
+2026-06-13 20:41:57,783 | INFO | case_041: ✅ 3108 kata, validitas=11.57%
+2026-06-13 20:41:59,620 | INFO | case_042.pdf: pdfminer OK (48649 chars konten)
+2026-06-13 20:41:59,624 | INFO | case_042: ✅ 854 kata, validitas=12.31%
+2026-06-13 20:42:00,819 | INFO | case_043.pdf: pdfminer OK (43866 chars konten)
+2026-06-13 20:42:00,823 | INFO | case_043: ✅ 766 kata, validitas=12.29%
+2026-06-13 20:42:00,839 | WARNING | Validasi akhir: KURANG 11 dokumen
+2026-06-13 21:09:21,687 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 21:09:23,624 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:09:54,872 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:10:13,266 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 21:10:16,332 | INFO | case_001: ✅ 42 KB
+2026-06-13 21:10:22,186 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c25cf61f40aba47303032393431/pdf/b72178899eca2bee8d3882beb5535436
+2026-06-13 21:10:25,250 | INFO | case_002: ✅ 60 KB
+2026-06-13 21:10:31,124 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 21:10:34,190 | INFO | case_003: ✅ 1233 KB
+2026-06-13 21:10:40,068 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e998d4d3838174a63f313931323236/pdf/9bc770a1dd47d9f951db97fd29afd1ce
+2026-06-13 21:10:43,145 | INFO | case_004: ✅ 184 KB
+2026-06-13 21:10:49,052 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 21:10:52,119 | INFO | case_005: ✅ 54 KB
+2026-06-13 21:10:58,020 | INFO | case_006: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927f25cfa6d08040313734343030/pdf/35607214f69809f464ac10876ad3e393
+2026-06-13 21:11:01,085 | INFO | case_006: ✅ 60 KB
+2026-06-13 21:11:06,982 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 21:11:10,043 | INFO | case_007: ✅ 61 KB
+2026-06-13 21:11:15,920 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c6754e6e9a8b96f4a2bfae0c1ffeb26e/pdf/c6eef4c08e7d54f350dfd8efaa631b2e
+2026-06-13 21:11:18,978 | INFO | case_008: ✅ 1241 KB
+2026-06-13 21:11:24,841 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e991c30a4b2662b0a4313931373238/pdf/25c53bba2c9ff949fa376ac7f345b258
+2026-06-13 21:11:27,911 | INFO | case_009: ✅ 290 KB
+2026-06-13 21:11:33,792 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d4744e3ec02b270313130313433/pdf/cb948d7eac0ac409bff953d500e2294a
+2026-06-13 21:11:36,861 | INFO | case_010: ✅ 202 KB
+2026-06-13 21:11:42,728 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 21:11:45,794 | INFO | case_011: ✅ 232 KB
+2026-06-13 21:11:51,695 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9933f468745d4af56313633393138/pdf/49f4044dba72cce2460923a8bf39b155
+2026-06-13 21:11:54,767 | INFO | case_012: ✅ 289 KB
+2026-06-13 21:12:00,658 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9951b5fc8ffa098a7303132373231/pdf/71c8ff3ce0942750ad0d7b37ca849774
+2026-06-13 21:12:03,716 | INFO | case_013: ✅ 253 KB
+2026-06-13 21:12:09,923 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 21:12:12,983 | INFO | case_014: ✅ 749 KB
+2026-06-13 21:12:19,129 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99812685a3bbcb6dc323030303433/pdf/8f6fa2c8dd35761dfae2bc0ea5655b9c
+2026-06-13 21:12:22,233 | INFO | case_015: ✅ 432 KB
+2026-06-13 21:12:28,425 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992375628168e8377303930393537/pdf/2a2d8419269863696573daafff0b6093
+2026-06-13 21:12:31,487 | INFO | case_016: ✅ 368 KB
+2026-06-13 21:12:37,640 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 21:12:40,695 | INFO | case_017: ✅ 54 KB
+2026-06-13 21:12:46,818 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 21:12:50,993 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 21:12:54,050 | INFO | case_019: ✅ 187 KB
+2026-06-13 21:13:00,254 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 21:13:03,317 | INFO | case_020: ✅ 228 KB
+2026-06-13 21:13:09,527 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 21:13:13,708 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 21:13:18,005 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 21:13:22,236 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c59b5f8a912b425303634313133/pdf/bdf4d24644b4336ee688f1dc3351c82a
+2026-06-13 21:13:25,301 | INFO | case_024: ✅ 218 KB
+2026-06-13 21:13:31,548 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a4a251540ce487a3313934313036/pdf/7da538b8956581f61abf55f7ca3d1858
+2026-06-13 21:13:34,627 | INFO | case_025: ✅ 318 KB
+2026-06-13 21:13:40,824 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c27d8b1b82aa2e313032383339/pdf/872905de26d2791b00afd4f9c089fef2
+2026-06-13 21:13:43,893 | INFO | case_026: ✅ 560 KB
+2026-06-13 21:13:50,111 | INFO | case_027: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dc85330ab769c12313734353134/pdf/0eb649d9ee34e1cdebfcdf2b7cbafb82
+2026-06-13 21:13:53,182 | INFO | case_027: ✅ 293 KB
+2026-06-13 21:13:59,082 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 21:14:02,145 | INFO | case_028: ✅ 243 KB
+2026-06-13 21:14:08,081 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d55d68fb541ca288c90a8563b92936a0/pdf/434d3cffb172f33915fc8396ac7778b0
+2026-06-13 21:14:11,135 | INFO | case_029: ✅ 1016 KB
+2026-06-13 21:14:17,063 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/24b5e304ce8971707e0e05e1c21a2f2a/pdf/018815ec8c1691425ff3b2762c9804fd
+2026-06-13 21:14:31,322 | INFO | case_030: ✅ 1192 KB
+2026-06-13 21:14:37,363 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 21:14:40,421 | INFO | case_031: ✅ 331 KB
+2026-06-13 21:14:46,318 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 21:14:49,387 | INFO | case_032: ✅ 1244 KB
+2026-06-13 21:14:55,292 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ee6629c36c2e5d45bd14e8b89ecbb34/pdf/6cef23d872e8edbac736c58e265e830d
+2026-06-13 21:14:58,368 | INFO | case_033: ✅ 213 KB
+2026-06-13 21:15:04,265 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 21:15:07,332 | INFO | case_034: ✅ 1693 KB
+2026-06-13 21:15:13,208 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 21:15:16,272 | INFO | case_035: ✅ 184 KB
+2026-06-13 21:15:22,186 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 21:15:25,263 | INFO | case_036: ✅ 865 KB
+2026-06-13 21:15:31,134 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 21:15:34,196 | INFO | case_037: ✅ 152 KB
+2026-06-13 21:15:40,093 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 21:15:43,153 | INFO | case_038: ✅ 1436 KB
+2026-06-13 21:15:49,045 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 21:15:52,110 | INFO | case_039: ✅ 271 KB
+2026-06-13 21:15:57,976 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 21:16:01,034 | INFO | case_040: ✅ 1132 KB
+2026-06-13 21:16:06,894 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 21:16:09,957 | INFO | case_041: ✅ 2385 KB
+2026-06-13 21:16:15,874 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f93ba32ce5d851158a77707906b684f8/pdf/e4a0ae37a01c37bde81d2b6c0ba25dd6
+2026-06-13 21:16:18,945 | INFO | case_042: ✅ 1003 KB
+2026-06-13 21:16:25,126 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 21:16:28,196 | INFO | case_043: ✅ 254 KB
+2026-06-13 21:16:34,015 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 21:16:37,073 | INFO | case_044: ✅ 125 KB
+2026-06-13 21:16:43,031 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 21:16:43,435 | INFO | Pipeline mulai: 39 PDF
+2026-06-13 21:16:43,666 | INFO | case_001.pdf: pdfminer OK (6056 chars konten)
+2026-06-13 21:16:43,667 | INFO | case_001: ✅ 175 kata, validitas=20.53%
+2026-06-13 21:16:43,879 | INFO | case_002.pdf: pdfminer OK (6187 chars konten)
+2026-06-13 21:16:43,881 | INFO | case_002: ✅ 165 kata, validitas=18.18%
+2026-06-13 21:16:46,500 | INFO | case_003.pdf: pdfminer OK (82213 chars konten)
+2026-06-13 21:16:46,507 | INFO | case_003: ✅ 1189 kata, validitas=9.06%
+2026-06-13 21:16:47,386 | INFO | case_004.pdf: pdfminer OK (30619 chars konten)
+2026-06-13 21:16:47,389 | INFO | case_004: ✅ 589 kata, validitas=13.47%
+2026-06-13 21:16:47,583 | INFO | case_005.pdf: pdfminer OK (5639 chars konten)
+2026-06-13 21:16:47,584 | INFO | case_005: ✅ 129 kata, validitas=15.75%
+2026-06-13 21:16:47,818 | INFO | case_006.pdf: pdfminer OK (6146 chars konten)
+2026-06-13 21:16:47,819 | INFO | case_006: ✅ 129 kata, validitas=14.65%
+2026-06-13 21:16:48,052 | INFO | case_007.pdf: pdfminer OK (6768 chars konten)
+2026-06-13 21:16:48,053 | INFO | case_007: ✅ 129 kata, validitas=14.39%
+2026-06-13 21:16:50,047 | INFO | case_008.pdf: pdfminer OK (64649 chars konten)
+2026-06-13 21:16:50,052 | INFO | case_008: ✅ 1079 kata, validitas=11.74%
+2026-06-13 21:16:52,303 | INFO | case_009.pdf: pdfminer OK (81540 chars konten)
+2026-06-13 21:16:52,310 | INFO | case_009: ✅ 1200 kata, validitas=10.57%
+2026-06-13 21:16:54,383 | INFO | case_010.pdf: pdfminer OK (76891 chars konten)
+2026-06-13 21:16:54,390 | INFO | case_010: ✅ 1232 kata, validitas=11.36%
+2026-06-13 21:16:56,351 | INFO | case_011.pdf: pdfminer OK (13447 chars konten)
+2026-06-13 21:16:56,356 | INFO | case_011: ✅ 902 kata, validitas=9.92%
+2026-06-13 21:16:58,814 | INFO | case_012.pdf: pdfminer OK (82661 chars konten)
+2026-06-13 21:16:58,819 | INFO | case_012: ✅ 1245 kata, validitas=10.74%
+2026-06-13 21:17:00,814 | INFO | case_013.pdf: pdfminer OK (76816 chars konten)
+2026-06-13 21:17:00,825 | INFO | case_013: ✅ 1041 kata, validitas=9.97%
+2026-06-13 21:17:06,500 | INFO | case_014.pdf: pdfminer OK (221621 chars konten)
+2026-06-13 21:17:06,513 | INFO | case_014: ✅ 3012 kata, validitas=9.81%
+2026-06-13 21:17:10,219 | INFO | case_015.pdf: pdfminer OK (133647 chars konten)
+2026-06-13 21:17:10,229 | INFO | case_015: ✅ 1890 kata, validitas=10.28%
+2026-06-13 21:17:14,384 | INFO | case_016.pdf: pdfminer OK (153237 chars konten)
+2026-06-13 21:17:14,395 | INFO | case_016: ✅ 2387 kata, validitas=11.11%
+2026-06-13 21:17:14,550 | INFO | case_017.pdf: pdfminer OK (3283 chars konten)
+2026-06-13 21:17:14,552 | INFO | case_017: ✅ 199 kata, validitas=35.41%
+2026-06-13 21:17:15,609 | INFO | case_019.pdf: pdfminer OK (7357 chars konten)
+2026-06-13 21:17:15,612 | INFO | case_019: ✅ 492 kata, validitas=10.11%
+2026-06-13 21:17:16,711 | INFO | case_020.pdf: pdfminer OK (38869 chars konten)
+2026-06-13 21:17:16,715 | INFO | case_020: ✅ 582 kata, validitas=10.76%
+2026-06-13 21:17:18,488 | INFO | case_024.pdf: pdfminer OK (13447 chars konten)
+2026-06-13 21:17:18,491 | INFO | case_024: ✅ 902 kata, validitas=10.95%
+2026-06-13 21:17:21,159 | INFO | case_025.pdf: pdfminer OK (94862 chars konten)
+2026-06-13 21:17:21,167 | INFO | case_025: ✅ 1379 kata, validitas=10.69%
+2026-06-13 21:17:27,267 | INFO | case_026.pdf: pdfminer OK (242397 chars konten)
+2026-06-13 21:17:27,287 | INFO | case_026: ✅ 3340 kata, validitas=9.92%
+2026-06-13 21:17:30,595 | INFO | case_027.pdf: pdfminer OK (125770 chars konten)
+2026-06-13 21:17:30,604 | INFO | case_027: ✅ 1651 kata, validitas=9.74%
+2026-06-13 21:17:32,511 | INFO | case_028.pdf: pdfminer OK (14056 chars konten)
+2026-06-13 21:17:32,516 | INFO | case_028: ✅ 943 kata, validitas=9.93%
+2026-06-13 21:17:34,002 | INFO | case_029.pdf: pdfminer OK (50857 chars konten)
+2026-06-13 21:17:34,007 | INFO | case_029: ✅ 984 kata, validitas=13.03%
+2026-06-13 21:17:36,520 | INFO | case_030.pdf: pdfminer OK (71998 chars konten)
+2026-06-13 21:17:36,528 | INFO | case_030: ✅ 1107 kata, validitas=9.59%
+2026-06-13 21:17:38,845 | INFO | case_031.pdf: pdfminer OK (82194 chars konten)
+2026-06-13 21:17:38,850 | INFO | case_031: ✅ 1152 kata, validitas=10.05%
+2026-06-13 21:17:40,842 | INFO | case_032.pdf: pdfminer OK (72625 chars konten)
+2026-06-13 21:17:40,848 | INFO | case_032: ✅ 1140 kata, validitas=11.13%
+2026-06-13 21:17:42,349 | INFO | case_033.pdf: pdfminer OK (70577 chars konten)
+2026-06-13 21:17:42,354 | INFO | case_033: ✅ 1055 kata, validitas=10.62%
+2026-06-13 21:17:45,417 | INFO | case_034.pdf: pdfminer OK (108638 chars konten)
+2026-06-13 21:17:45,425 | INFO | case_034: ✅ 1519 kata, validitas=10.00%
+2026-06-13 21:17:46,864 | INFO | case_035.pdf: pdfminer OK (70267 chars konten)
+2026-06-13 21:17:46,870 | INFO | case_035: ✅ 962 kata, validitas=9.39%
+2026-06-13 21:17:48,249 | INFO | case_036.pdf: pdfminer OK (51628 chars konten)
+2026-06-13 21:17:48,253 | INFO | case_036: ✅ 824 kata, validitas=11.43%
+2026-06-13 21:17:49,523 | INFO | case_037.pdf: pdfminer OK (9793 chars konten)
+2026-06-13 21:17:49,527 | INFO | case_037: ✅ 656 kata, validitas=10.29%
+2026-06-13 21:17:52,414 | INFO | case_038.pdf: pdfminer OK (101697 chars konten)
+2026-06-13 21:17:52,422 | INFO | case_038: ✅ 1968 kata, validitas=13.04%
+2026-06-13 21:17:54,832 | INFO | case_039.pdf: pdfminer OK (88372 chars konten)
+2026-06-13 21:17:54,840 | INFO | case_039: ✅ 1279 kata, validitas=10.41%
+2026-06-13 21:17:56,520 | INFO | case_040.pdf: pdfminer OK (58050 chars konten)
+2026-06-13 21:17:56,525 | INFO | case_040: ✅ 1044 kata, validitas=12.37%
+2026-06-13 21:18:01,525 | INFO | case_041.pdf: pdfminer OK (188530 chars konten)
+2026-06-13 21:18:01,541 | INFO | case_041: ✅ 3108 kata, validitas=11.57%
+2026-06-13 21:18:03,269 | INFO | case_042.pdf: pdfminer OK (48649 chars konten)
+2026-06-13 21:18:03,273 | INFO | case_042: ✅ 854 kata, validitas=12.31%
+2026-06-13 21:18:04,534 | INFO | case_043.pdf: pdfminer OK (43866 chars konten)
+2026-06-13 21:18:04,539 | INFO | case_043: ✅ 766 kata, validitas=12.29%
+2026-06-13 21:18:04,553 | WARNING | Validasi akhir: KURANG 11 dokumen
+2026-06-13 21:37:30,347 | INFO | Pipeline mulai: 39 PDF
+2026-06-13 21:37:30,358 | INFO | case_001.pdf: PyMuPDF OK (7,005 chars)
+2026-06-13 21:37:30,362 | INFO | case_001: ✅ 712 kata, validitas=76.64%
+2026-06-13 21:37:30,372 | INFO | case_002.pdf: PyMuPDF OK (7,081 chars)
+2026-06-13 21:37:30,374 | INFO | case_002: ✅ 756 kata, validitas=78.20%
+2026-06-13 21:37:30,444 | INFO | case_003.pdf: PyMuPDF OK (95,455 chars)
+2026-06-13 21:37:30,463 | INFO | case_003: ✅ 11044 kata, validitas=73.31%
+2026-06-13 21:37:30,494 | INFO | case_004.pdf: PyMuPDF OK (34,204 chars)
+2026-06-13 21:37:30,502 | INFO | case_004: ✅ 3801 kata, validitas=82.05%
+2026-06-13 21:37:30,511 | INFO | case_005.pdf: PyMuPDF OK (6,550 chars)
+2026-06-13 21:37:30,513 | INFO | case_005: ✅ 666 kata, validitas=76.36%
+2026-06-13 21:37:30,523 | INFO | case_006.pdf: PyMuPDF OK (7,083 chars)
+2026-06-13 21:37:30,526 | INFO | case_006: ✅ 729 kata, validitas=78.06%
+2026-06-13 21:37:30,537 | INFO | case_007.pdf: PyMuPDF OK (7,703 chars)
+2026-06-13 21:37:30,539 | INFO | case_007: ✅ 768 kata, validitas=78.45%
+2026-06-13 21:37:30,588 | INFO | case_008.pdf: PyMuPDF OK (71,108 chars)
+2026-06-13 21:37:30,600 | INFO | case_008: ✅ 8518 kata, validitas=84.43%
+2026-06-13 21:37:30,663 | INFO | case_009.pdf: PyMuPDF OK (90,306 chars)
+2026-06-13 21:37:30,681 | INFO | case_009: ✅ 10659 kata, validitas=83.63%
+2026-06-13 21:37:30,735 | INFO | case_010.pdf: PyMuPDF OK (85,515 chars)
+2026-06-13 21:37:30,751 | INFO | case_010: ✅ 9832 kata, validitas=82.82%
+2026-06-13 21:37:30,802 | INFO | case_011.pdf: PyMuPDF OK (72,458 chars)
+2026-06-13 21:37:30,815 | INFO | case_011: ✅ 8801 kata, validitas=82.62%
+2026-06-13 21:37:30,879 | INFO | case_012.pdf: PyMuPDF OK (92,371 chars)
+2026-06-13 21:37:30,896 | INFO | case_012: ✅ 11530 kata, validitas=83.96%
+2026-06-13 21:37:30,956 | INFO | case_013.pdf: PyMuPDF OK (84,111 chars)
+2026-06-13 21:37:30,972 | INFO | case_013: ✅ 9923 kata, validitas=84.63%
+2026-06-13 21:37:31,118 | INFO | case_014.pdf: PyMuPDF OK (243,484 chars)
+2026-06-13 21:37:31,160 | INFO | case_014: ✅ 29858 kata, validitas=84.81%
+2026-06-13 21:37:31,255 | INFO | case_015.pdf: PyMuPDF OK (146,974 chars)
+2026-06-13 21:37:31,281 | INFO | case_015: ✅ 18317 kata, validitas=84.31%
+2026-06-13 21:37:31,386 | INFO | case_016.pdf: PyMuPDF OK (170,704 chars)
+2026-06-13 21:37:31,416 | INFO | case_016: ✅ 20069 kata, validitas=82.71%
+2026-06-13 21:37:31,424 | INFO | case_017.pdf: PyMuPDF OK (3,905 chars)
+2026-06-13 21:37:31,426 | INFO | case_017: ✅ 422 kata, validitas=72.81%
+2026-06-13 21:37:31,457 | INFO | case_019.pdf: PyMuPDF OK (38,605 chars)
+2026-06-13 21:37:31,465 | INFO | case_019: ✅ 4152 kata, validitas=82.19%
+2026-06-13 21:37:31,499 | INFO | case_020.pdf: PyMuPDF OK (43,015 chars)
+2026-06-13 21:37:31,508 | INFO | case_020: ✅ 4845 kata, validitas=83.41%
+2026-06-13 21:37:31,555 | INFO | case_024.pdf: PyMuPDF OK (65,451 chars)
+2026-06-13 21:37:31,568 | INFO | case_024: ✅ 7639 kata, validitas=80.86%
+2026-06-13 21:37:31,649 | INFO | case_025.pdf: PyMuPDF OK (104,329 chars)
+2026-06-13 21:37:31,671 | INFO | case_025: ✅ 11928 kata, validitas=83.92%
+2026-06-13 21:37:31,834 | INFO | case_026.pdf: PyMuPDF OK (266,126 chars)
+2026-06-13 21:37:31,880 | INFO | case_026: ✅ 32599 kata, validitas=84.79%
+2026-06-13 21:37:31,966 | INFO | case_027.pdf: PyMuPDF OK (137,782 chars)
+2026-06-13 21:37:31,990 | INFO | case_027: ✅ 17042 kata, validitas=84.91%
+2026-06-13 21:37:32,045 | INFO | case_028.pdf: PyMuPDF OK (75,025 chars)
+2026-06-13 21:37:32,060 | INFO | case_028: ✅ 7967 kata, validitas=82.62%
+2026-06-13 21:37:32,103 | INFO | case_029.pdf: PyMuPDF OK (59,265 chars)
+2026-06-13 21:37:32,114 | INFO | case_029: ✅ 6643 kata, validitas=79.54%
+2026-06-13 21:37:32,169 | INFO | case_030.pdf: PyMuPDF OK (84,102 chars)
+2026-06-13 21:37:32,186 | INFO | case_030: ✅ 9819 kata, validitas=73.05%
+2026-06-13 21:37:32,251 | INFO | case_031.pdf: PyMuPDF OK (90,259 chars)
+2026-06-13 21:37:32,267 | INFO | case_031: ✅ 11002 kata, validitas=84.85%
+2026-06-13 21:37:32,320 | INFO | case_032.pdf: PyMuPDF OK (80,271 chars)
+2026-06-13 21:37:32,334 | INFO | case_032: ✅ 9267 kata, validitas=83.74%
+2026-06-13 21:37:32,378 | INFO | case_033.pdf: PyMuPDF OK (77,441 chars)
+2026-06-13 21:37:32,391 | INFO | case_033: ✅ 8141 kata, validitas=85.24%
+2026-06-13 21:37:32,461 | INFO | case_034.pdf: PyMuPDF OK (119,499 chars)
+2026-06-13 21:37:32,481 | INFO | case_034: ✅ 12823 kata, validitas=84.91%
+2026-06-13 21:37:32,525 | INFO | case_035.pdf: PyMuPDF OK (79,554 chars)
+2026-06-13 21:37:32,540 | INFO | case_035: ✅ 8261 kata, validitas=86.72%
+2026-06-13 21:37:32,576 | INFO | case_036.pdf: PyMuPDF OK (57,385 chars)
+2026-06-13 21:37:32,586 | INFO | case_036: ✅ 6511 kata, validitas=82.43%
+2026-06-13 21:37:32,624 | INFO | case_037.pdf: PyMuPDF OK (50,874 chars)
+2026-06-13 21:37:32,633 | INFO | case_037: ✅ 6138 kata, validitas=81.96%
+2026-06-13 21:37:32,700 | INFO | case_038.pdf: PyMuPDF OK (117,906 chars)
+2026-06-13 21:37:32,720 | INFO | case_038: ✅ 12803 kata, validitas=78.28%
+2026-06-13 21:37:32,784 | INFO | case_039.pdf: PyMuPDF OK (97,661 chars)
+2026-06-13 21:37:32,802 | INFO | case_039: ✅ 11477 kata, validitas=83.87%
+2026-06-13 21:37:32,844 | INFO | case_040.pdf: PyMuPDF OK (65,842 chars)
+2026-06-13 21:37:32,856 | INFO | case_040: ✅ 6553 kata, validitas=82.41%
+2026-06-13 21:37:32,975 | INFO | case_041.pdf: PyMuPDF OK (210,455 chars)
+2026-06-13 21:37:33,015 | INFO | case_041: ✅ 24731 kata, validitas=82.05%
+2026-06-13 21:37:33,052 | INFO | case_042.pdf: PyMuPDF OK (53,692 chars)
+2026-06-13 21:37:33,062 | INFO | case_042: ✅ 6953 kata, validitas=83.84%
+2026-06-13 21:37:33,098 | INFO | case_043.pdf: PyMuPDF OK (48,862 chars)
+2026-06-13 21:37:33,111 | INFO | case_043: ✅ 5131 kata, validitas=82.35%
+2026-06-13 21:37:33,127 | WARNING | Validasi akhir: KURANG 11 dokumen
+2026-06-13 21:40:30,724 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 21:40:32,995 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:41:57,333 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:42:11,977 | INFO | Pipeline mulai: 0 PDF
+2026-06-13 21:42:11,989 | WARNING | Validasi akhir: KURANG 50 dokumen
+2026-06-13 21:43:25,300 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:43:44,626 | INFO | Pipeline mulai: 0 PDF
+2026-06-13 21:43:44,645 | WARNING | Validasi akhir: KURANG 50 dokumen
+2026-06-13 21:44:24,444 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:44:51,907 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:45:14,286 | INFO | case_001: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927252215b509952313631323131/pdf/333456989d19c27127bf1b91c1cddc10
+2026-06-13 21:45:17,677 | INFO | case_001: ✅ 42 KB
+2026-06-13 21:45:23,801 | INFO | case_002: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c25cf61f40aba47303032393431/pdf/b72178899eca2bee8d3882beb5535436
+2026-06-13 21:45:26,866 | INFO | case_002: ✅ 60 KB
+2026-06-13 21:45:33,050 | INFO | case_003: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6163511c478d54f0c8a18f508d05f7f5/pdf/aad4f9bfa440e65ede9467d0a921f6e9
+2026-06-13 21:45:36,118 | INFO | case_003: ✅ 1233 KB
+2026-06-13 21:45:42,294 | INFO | case_004: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e998d4d3838174a63f313931323236/pdf/9bc770a1dd47d9f951db97fd29afd1ce
+2026-06-13 21:45:45,359 | INFO | case_004: ✅ 184 KB
+2026-06-13 21:45:51,454 | INFO | case_005: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dd1d9240e86ac7a313835333234/pdf/104cb3a3f9ae88af10230a7864e75e29
+2026-06-13 21:45:54,512 | INFO | case_005: ✅ 54 KB
+2026-06-13 21:46:00,726 | INFO | case_006: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9927f25cfa6d08040313734343030/pdf/35607214f69809f464ac10876ad3e393
+2026-06-13 21:46:03,788 | INFO | case_006: ✅ 60 KB
+2026-06-13 21:46:09,923 | INFO | case_007: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993c0bc50b13eac1d303830363031/pdf/52e15127e00651353ce9e435016e362a
+2026-06-13 21:46:12,999 | INFO | case_007: ✅ 61 KB
+2026-06-13 21:46:19,194 | INFO | case_008: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/c6754e6e9a8b96f4a2bfae0c1ffeb26e/pdf/c6eef4c08e7d54f350dfd8efaa631b2e
+2026-06-13 21:46:22,266 | INFO | case_008: ✅ 1241 KB
+2026-06-13 21:46:28,404 | INFO | case_009: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e991c30a4b2662b0a4313931373238/pdf/25c53bba2c9ff949fa376ac7f345b258
+2026-06-13 21:46:31,460 | INFO | case_009: ✅ 290 KB
+2026-06-13 21:46:37,595 | INFO | case_010: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d4744e3ec02b270313130313433/pdf/cb948d7eac0ac409bff953d500e2294a
+2026-06-13 21:46:40,665 | INFO | case_010: ✅ 202 KB
+2026-06-13 21:46:46,805 | INFO | case_011: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c71281ac0292ac313130313237/pdf/88041d805c7c75a226519f93007611f4
+2026-06-13 21:46:49,861 | INFO | case_011: ✅ 232 KB
+2026-06-13 21:46:56,025 | INFO | case_012: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9933f468745d4af56313633393138/pdf/49f4044dba72cce2460923a8bf39b155
+2026-06-13 21:46:59,087 | INFO | case_012: ✅ 289 KB
+2026-06-13 21:47:05,205 | INFO | case_013: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9951b5fc8ffa098a7303132373231/pdf/71c8ff3ce0942750ad0d7b37ca849774
+2026-06-13 21:47:08,262 | INFO | case_013: ✅ 253 KB
+2026-06-13 21:47:14,364 | INFO | case_014: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9972d22c0d678873c313633393332/pdf/824e1dbaf3c6a29f2964350cc2176163
+2026-06-13 21:47:17,429 | INFO | case_014: ✅ 749 KB
+2026-06-13 21:47:23,544 | INFO | case_015: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99812685a3bbcb6dc323030303433/pdf/8f6fa2c8dd35761dfae2bc0ea5655b9c
+2026-06-13 21:47:26,611 | INFO | case_015: ✅ 432 KB
+2026-06-13 21:47:32,746 | INFO | case_016: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992375628168e8377303930393537/pdf/2a2d8419269863696573daafff0b6093
+2026-06-13 21:47:35,811 | INFO | case_016: ✅ 368 KB
+2026-06-13 21:47:41,941 | INFO | case_017: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98104bf4ae6bc9336313135353030/pdf/05770afd26afc0b9e7d849bf1eee1f14
+2026-06-13 21:47:44,996 | INFO | case_017: ✅ 54 KB
+2026-06-13 21:47:51,091 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 21:47:55,211 | INFO | case_019: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99300b1b240bebf1a303931313230/pdf/4407109772abb45ae6ce3a8f167477a5
+2026-06-13 21:47:58,269 | INFO | case_019: ✅ 187 KB
+2026-06-13 21:48:04,369 | INFO | case_020: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d767e0b5e009dfe313633393435/pdf/cf7ba6667425555d2e6ea04714aa0fac
+2026-06-13 21:48:07,427 | INFO | case_020: ✅ 228 KB
+2026-06-13 21:48:13,491 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 21:48:17,573 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 21:48:21,638 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 21:48:25,764 | INFO | case_024: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99c59b5f8a912b425303634313133/pdf/bdf4d24644b4336ee688f1dc3351c82a
+2026-06-13 21:48:28,823 | INFO | case_024: ✅ 218 KB
+2026-06-13 21:48:34,939 | INFO | case_025: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a4a251540ce487a3313934313036/pdf/7da538b8956581f61abf55f7ca3d1858
+2026-06-13 21:48:38,006 | INFO | case_025: ✅ 318 KB
+2026-06-13 21:48:44,133 | INFO | case_026: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e997c27d8b1b82aa2e313032383339/pdf/872905de26d2791b00afd4f9c089fef2
+2026-06-13 21:48:47,197 | INFO | case_026: ✅ 560 KB
+2026-06-13 21:48:53,337 | INFO | case_027: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98dc85330ab769c12313734353134/pdf/0eb649d9ee34e1cdebfcdf2b7cbafb82
+2026-06-13 21:48:56,391 | INFO | case_027: ✅ 293 KB
+2026-06-13 21:49:02,502 | INFO | case_028: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a015f246a16699e4303034363133/pdf/f849080655d554020db837a3221449a9
+2026-06-13 21:49:05,568 | INFO | case_028: ✅ 243 KB
+2026-06-13 21:49:11,675 | INFO | case_029: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d55d68fb541ca288c90a8563b92936a0/pdf/434d3cffb172f33915fc8396ac7778b0
+2026-06-13 21:49:14,730 | INFO | case_029: ✅ 1016 KB
+2026-06-13 21:49:20,881 | INFO | case_030: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/24b5e304ce8971707e0e05e1c21a2f2a/pdf/018815ec8c1691425ff3b2762c9804fd
+2026-06-13 21:49:23,944 | INFO | case_030: ✅ 1192 KB
+2026-06-13 21:49:30,090 | INFO | case_031: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d6f927a661cb6c3313535303133/pdf/ce845307cc57aacd684b76ac31cf0065
+2026-06-13 21:49:33,146 | INFO | case_031: ✅ 331 KB
+2026-06-13 21:49:39,280 | INFO | case_032: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/9b7208a841826e646c37d64f96ffe2cb/pdf/f4b19d733322a31afb13d7815ff8f106
+2026-06-13 21:49:42,343 | INFO | case_032: ✅ 1244 KB
+2026-06-13 21:49:48,512 | INFO | case_033: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8ee6629c36c2e5d45bd14e8b89ecbb34/pdf/6cef23d872e8edbac736c58e265e830d
+2026-06-13 21:49:51,567 | INFO | case_033: ✅ 213 KB
+2026-06-13 21:49:57,676 | INFO | case_034: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ffb0d34e66ce7d53f3714a0351301646/pdf/bdbe9f903321623c76117cadd6488d01
+2026-06-13 21:50:00,735 | INFO | case_034: ✅ 1693 KB
+2026-06-13 21:50:06,876 | INFO | case_035: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cec985e2ec81a389dea7010bee74b666/pdf/49aa0ea4a1aa7cd4d686ce80e9d3f18a
+2026-06-13 21:50:09,934 | INFO | case_035: ✅ 184 KB
+2026-06-13 21:50:16,065 | INFO | case_036: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/35a3663207a7d1e95e5aa1a2cf4f949d/pdf/bec3f1f037bb29b27890d385788437bd
+2026-06-13 21:50:19,120 | INFO | case_036: ✅ 865 KB
+2026-06-13 21:50:25,256 | INFO | case_037: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992f13509e22eae5f303732303238/pdf/41af0dd2ada496c05b7b120fe20b3bad
+2026-06-13 21:50:28,326 | INFO | case_037: ✅ 152 KB
+2026-06-13 21:50:34,415 | INFO | case_038: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/52b37d9f82383de8125ef8c619195408/pdf/4e6783a56f885f07441dbbec0940f0cc
+2026-06-13 21:50:37,477 | INFO | case_038: ✅ 1436 KB
+2026-06-13 21:50:43,604 | INFO | case_039: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fcd4743ec309e0c313630363032/pdf/f1bbe888781990595af69ebcb76dfde8
+2026-06-13 21:50:46,656 | INFO | case_039: ✅ 271 KB
+2026-06-13 21:50:52,780 | INFO | case_040: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2a05db9ca63727244e143374130ecbaa/pdf/b8a1671b3d0707008aa3fd46e9312fef
+2026-06-13 21:50:55,835 | INFO | case_040: ✅ 1132 KB
+2026-06-13 21:51:01,930 | INFO | case_041: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/61a51f9234665877468ad1e9ddd9f2ef/pdf/8ab5baf8640e7cf5a074e760c16da5a2
+2026-06-13 21:51:04,988 | INFO | case_041: ✅ 2385 KB
+2026-06-13 21:51:11,070 | INFO | case_042: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f93ba32ce5d851158a77707906b684f8/pdf/e4a0ae37a01c37bde81d2b6c0ba25dd6
+2026-06-13 21:51:14,128 | INFO | case_042: ✅ 1003 KB
+2026-06-13 21:51:20,294 | INFO | case_043: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e980640ec378368d36313634343434/pdf/00eaba9c941cd6edbd0aeb75c333c4d8
+2026-06-13 21:51:23,363 | INFO | case_043: ✅ 254 KB
+2026-06-13 21:51:29,511 | INFO | case_044: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f0d98956890523bcdb0f5e0c07890135/pdf/zaf1654f00af481abc38313133353431
+2026-06-13 21:51:32,566 | INFO | case_044: ✅ 125 KB
+2026-06-13 21:51:38,775 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 21:51:39,198 | INFO | Pipeline mulai: 39 PDF
+2026-06-13 21:51:39,222 | INFO | case_001.pdf: PyMuPDF OK (7,005 chars)
+2026-06-13 21:51:39,230 | INFO | case_001: ✅ 712 kata, validitas=76.64%
+2026-06-13 21:51:39,246 | INFO | case_002.pdf: PyMuPDF OK (7,081 chars)
+2026-06-13 21:51:39,249 | INFO | case_002: ✅ 756 kata, validitas=78.20%
+2026-06-13 21:51:39,324 | INFO | case_003.pdf: PyMuPDF OK (95,455 chars)
+2026-06-13 21:51:39,342 | INFO | case_003: ✅ 11044 kata, validitas=73.31%
+2026-06-13 21:51:39,377 | INFO | case_004.pdf: PyMuPDF OK (34,204 chars)
+2026-06-13 21:51:39,384 | INFO | case_004: ✅ 3801 kata, validitas=82.05%
+2026-06-13 21:51:39,401 | INFO | case_005.pdf: PyMuPDF OK (6,550 chars)
+2026-06-13 21:51:39,403 | INFO | case_005: ✅ 666 kata, validitas=76.36%
+2026-06-13 21:51:39,419 | INFO | case_006.pdf: PyMuPDF OK (7,083 chars)
+2026-06-13 21:51:39,422 | INFO | case_006: ✅ 729 kata, validitas=78.06%
+2026-06-13 21:51:39,439 | INFO | case_007.pdf: PyMuPDF OK (7,703 chars)
+2026-06-13 21:51:39,442 | INFO | case_007: ✅ 768 kata, validitas=78.45%
+2026-06-13 21:51:39,495 | INFO | case_008.pdf: PyMuPDF OK (71,108 chars)
+2026-06-13 21:51:39,507 | INFO | case_008: ✅ 8518 kata, validitas=84.43%
+2026-06-13 21:51:39,582 | INFO | case_009.pdf: PyMuPDF OK (90,306 chars)
+2026-06-13 21:51:39,600 | INFO | case_009: ✅ 10659 kata, validitas=83.63%
+2026-06-13 21:51:39,667 | INFO | case_010.pdf: PyMuPDF OK (85,515 chars)
+2026-06-13 21:51:39,684 | INFO | case_010: ✅ 9832 kata, validitas=82.82%
+2026-06-13 21:51:39,760 | INFO | case_011.pdf: PyMuPDF OK (72,458 chars)
+2026-06-13 21:51:39,775 | INFO | case_011: ✅ 8801 kata, validitas=82.62%
+2026-06-13 21:51:39,849 | INFO | case_012.pdf: PyMuPDF OK (92,371 chars)
+2026-06-13 21:51:39,865 | INFO | case_012: ✅ 11530 kata, validitas=83.96%
+2026-06-13 21:51:39,928 | INFO | case_013.pdf: PyMuPDF OK (84,111 chars)
+2026-06-13 21:51:39,943 | INFO | case_013: ✅ 9923 kata, validitas=84.63%
+2026-06-13 21:51:40,095 | INFO | case_014.pdf: PyMuPDF OK (243,484 chars)
+2026-06-13 21:51:40,135 | INFO | case_014: ✅ 29858 kata, validitas=84.81%
+2026-06-13 21:51:40,235 | INFO | case_015.pdf: PyMuPDF OK (146,974 chars)
+2026-06-13 21:51:40,260 | INFO | case_015: ✅ 18317 kata, validitas=84.31%
+2026-06-13 21:51:40,370 | INFO | case_016.pdf: PyMuPDF OK (170,704 chars)
+2026-06-13 21:51:40,400 | INFO | case_016: ✅ 20069 kata, validitas=82.71%
+2026-06-13 21:51:40,415 | INFO | case_017.pdf: PyMuPDF OK (3,905 chars)
+2026-06-13 21:51:40,417 | INFO | case_017: ✅ 422 kata, validitas=72.81%
+2026-06-13 21:51:40,454 | INFO | case_019.pdf: PyMuPDF OK (38,605 chars)
+2026-06-13 21:51:40,463 | INFO | case_019: ✅ 4152 kata, validitas=82.19%
+2026-06-13 21:51:40,502 | INFO | case_020.pdf: PyMuPDF OK (43,015 chars)
+2026-06-13 21:51:40,510 | INFO | case_020: ✅ 4845 kata, validitas=83.41%
+2026-06-13 21:51:40,565 | INFO | case_024.pdf: PyMuPDF OK (65,451 chars)
+2026-06-13 21:51:40,577 | INFO | case_024: ✅ 7639 kata, validitas=80.86%
+2026-06-13 21:51:40,653 | INFO | case_025.pdf: PyMuPDF OK (104,329 chars)
+2026-06-13 21:51:40,673 | INFO | case_025: ✅ 11928 kata, validitas=83.92%
+2026-06-13 21:51:40,839 | INFO | case_026.pdf: PyMuPDF OK (266,126 chars)
+2026-06-13 21:51:40,886 | INFO | case_026: ✅ 32599 kata, validitas=84.79%
+2026-06-13 21:51:40,979 | INFO | case_027.pdf: PyMuPDF OK (137,782 chars)
+2026-06-13 21:51:41,002 | INFO | case_027: ✅ 17042 kata, validitas=84.91%
+2026-06-13 21:51:41,059 | INFO | case_028.pdf: PyMuPDF OK (75,025 chars)
+2026-06-13 21:51:41,071 | INFO | case_028: ✅ 7967 kata, validitas=82.62%
+2026-06-13 21:51:41,119 | INFO | case_029.pdf: PyMuPDF OK (59,265 chars)
+2026-06-13 21:51:41,130 | INFO | case_029: ✅ 6643 kata, validitas=79.54%
+2026-06-13 21:51:41,189 | INFO | case_030.pdf: PyMuPDF OK (84,102 chars)
+2026-06-13 21:51:41,204 | INFO | case_030: ✅ 9819 kata, validitas=73.05%
+2026-06-13 21:51:41,272 | INFO | case_031.pdf: PyMuPDF OK (90,259 chars)
+2026-06-13 21:51:41,288 | INFO | case_031: ✅ 11002 kata, validitas=84.85%
+2026-06-13 21:51:41,344 | INFO | case_032.pdf: PyMuPDF OK (80,271 chars)
+2026-06-13 21:51:41,359 | INFO | case_032: ✅ 9267 kata, validitas=83.74%
+2026-06-13 21:51:41,408 | INFO | case_033.pdf: PyMuPDF OK (77,441 chars)
+2026-06-13 21:51:41,422 | INFO | case_033: ✅ 8141 kata, validitas=85.24%
+2026-06-13 21:51:41,497 | INFO | case_034.pdf: PyMuPDF OK (119,499 chars)
+2026-06-13 21:51:41,518 | INFO | case_034: ✅ 12823 kata, validitas=84.91%
+2026-06-13 21:51:41,567 | INFO | case_035.pdf: PyMuPDF OK (79,554 chars)
+2026-06-13 21:51:41,580 | INFO | case_035: ✅ 8261 kata, validitas=86.72%
+2026-06-13 21:51:41,623 | INFO | case_036.pdf: PyMuPDF OK (57,385 chars)
+2026-06-13 21:51:41,633 | INFO | case_036: ✅ 6511 kata, validitas=82.43%
+2026-06-13 21:51:41,677 | INFO | case_037.pdf: PyMuPDF OK (50,874 chars)
+2026-06-13 21:51:41,686 | INFO | case_037: ✅ 6138 kata, validitas=81.96%
+2026-06-13 21:51:41,758 | INFO | case_038.pdf: PyMuPDF OK (117,906 chars)
+2026-06-13 21:51:41,777 | INFO | case_038: ✅ 12803 kata, validitas=78.28%
+2026-06-13 21:51:41,849 | INFO | case_039.pdf: PyMuPDF OK (97,661 chars)
+2026-06-13 21:51:41,868 | INFO | case_039: ✅ 11477 kata, validitas=83.87%
+2026-06-13 21:51:41,916 | INFO | case_040.pdf: PyMuPDF OK (65,842 chars)
+2026-06-13 21:51:41,929 | INFO | case_040: ✅ 6553 kata, validitas=82.41%
+2026-06-13 21:51:42,052 | INFO | case_041.pdf: PyMuPDF OK (210,455 chars)
+2026-06-13 21:51:42,090 | INFO | case_041: ✅ 24731 kata, validitas=82.05%
+2026-06-13 21:51:42,135 | INFO | case_042.pdf: PyMuPDF OK (53,692 chars)
+2026-06-13 21:51:42,143 | INFO | case_042: ✅ 6953 kata, validitas=83.84%
+2026-06-13 21:51:42,186 | INFO | case_043.pdf: PyMuPDF OK (48,862 chars)
+2026-06-13 21:51:42,195 | INFO | case_043: ✅ 5131 kata, validitas=82.35%
+2026-06-13 21:51:42,209 | WARNING | Validasi akhir: KURANG 11 dokumen
+2026-06-13 21:53:48,291 | INFO | === Sesi dimulai — Perkara: Pidana Khusus Anak ===
+2026-06-13 21:53:50,385 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:54:56,101 | INFO | patching driver executable C:\Users\PC-LABIT2\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-06-13 21:55:10,339 | INFO | case_001: sudah ada, skip
+2026-06-13 21:55:10,340 | INFO | case_002: sudah ada, skip
+2026-06-13 21:55:10,340 | INFO | case_003: sudah ada, skip
+2026-06-13 21:55:10,341 | INFO | case_004: sudah ada, skip
+2026-06-13 21:55:10,342 | INFO | case_005: sudah ada, skip
+2026-06-13 21:55:10,343 | INFO | case_006: sudah ada, skip
+2026-06-13 21:55:10,343 | INFO | case_007: sudah ada, skip
+2026-06-13 21:55:10,344 | INFO | case_008: sudah ada, skip
+2026-06-13 21:55:10,345 | INFO | case_009: sudah ada, skip
+2026-06-13 21:55:10,346 | INFO | case_010: sudah ada, skip
+2026-06-13 21:55:10,347 | INFO | case_011: sudah ada, skip
+2026-06-13 21:55:10,348 | INFO | case_012: sudah ada, skip
+2026-06-13 21:55:10,348 | INFO | case_013: sudah ada, skip
+2026-06-13 21:55:10,349 | INFO | case_014: sudah ada, skip
+2026-06-13 21:55:10,350 | INFO | case_015: sudah ada, skip
+2026-06-13 21:55:10,350 | INFO | case_016: sudah ada, skip
+2026-06-13 21:55:10,351 | INFO | case_017: sudah ada, skip
+2026-06-13 21:55:14,464 | WARNING | case_018: tidak ada lampiran PDF → di-skip
+2026-06-13 21:55:14,466 | INFO | case_019: sudah ada, skip
+2026-06-13 21:55:14,466 | INFO | case_020: sudah ada, skip
+2026-06-13 21:55:18,365 | WARNING | case_021: tidak ada lampiran PDF → di-skip
+2026-06-13 21:55:22,301 | WARNING | case_022: tidak ada lampiran PDF → di-skip
+2026-06-13 21:55:26,199 | WARNING | case_023: tidak ada lampiran PDF → di-skip
+2026-06-13 21:55:26,200 | INFO | case_024: sudah ada, skip
+2026-06-13 21:55:26,201 | INFO | case_025: sudah ada, skip
+2026-06-13 21:55:26,202 | INFO | case_026: sudah ada, skip
+2026-06-13 21:55:26,203 | INFO | case_027: sudah ada, skip
+2026-06-13 21:55:26,203 | INFO | case_028: sudah ada, skip
+2026-06-13 21:55:26,204 | INFO | case_029: sudah ada, skip
+2026-06-13 21:55:26,205 | INFO | case_030: sudah ada, skip
+2026-06-13 21:55:26,206 | INFO | case_031: sudah ada, skip
+2026-06-13 21:55:26,206 | INFO | case_032: sudah ada, skip
+2026-06-13 21:55:26,207 | INFO | case_033: sudah ada, skip
+2026-06-13 21:55:26,208 | INFO | case_034: sudah ada, skip
+2026-06-13 21:55:26,209 | INFO | case_035: sudah ada, skip
+2026-06-13 21:55:26,209 | INFO | case_036: sudah ada, skip
+2026-06-13 21:55:26,210 | INFO | case_037: sudah ada, skip
+2026-06-13 21:55:26,211 | INFO | case_038: sudah ada, skip
+2026-06-13 21:55:26,211 | INFO | case_039: sudah ada, skip
+2026-06-13 21:55:26,212 | INFO | case_040: sudah ada, skip
+2026-06-13 21:55:26,213 | INFO | case_041: sudah ada, skip
+2026-06-13 21:55:26,213 | INFO | case_042: sudah ada, skip
+2026-06-13 21:55:26,214 | INFO | case_043: sudah ada, skip
+2026-06-13 21:55:26,215 | INFO | case_044: sudah ada, skip
+2026-06-13 21:55:30,107 | WARNING | case_045: tidak ada lampiran PDF → di-skip
+2026-06-13 21:55:34,052 | WARNING | case_046: tidak ada lampiran PDF → di-skip
+2026-06-13 21:55:40,316 | INFO | case_047: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/dcf1022c7ddb3d2fdfd94c0a1b2eeb2f/pdf/17dbee3c7aa37954f947f120da074a7b
+2026-06-13 21:55:45,646 | INFO | case_047: ✅ 913 KB
+2026-06-13 21:56:33,529 | INFO | case_048: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/cf40612ab919b36ae00085aedfdc41a3/pdf/46695cf774732089f8b4c927b7387107
+2026-06-13 21:56:39,352 | INFO | case_048: ✅ 2790 KB
+2026-06-13 21:56:45,227 | INFO | case_049: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ab167c375cd548f5c631f5abc413f398/pdf/e12602bbd2f5da289974a97196690f93
+2026-06-13 21:56:50,356 | INFO | case_049: ✅ 1493 KB
+2026-06-13 21:56:58,314 | INFO | case_050: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/1202b2e696a07fe3b8f0e46d9eff5c82/pdf/9ed9eea0792fc980ac7568011f7d5052
+2026-06-13 21:57:03,650 | INFO | case_050: ✅ 1326 KB
+2026-06-13 21:57:15,171 | INFO | case_051: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992e88c28a544a8b8303631383239/pdf/405e251117aed8e5197d7c0ad138ce8f
+2026-06-13 21:57:22,116 | INFO | case_051: ✅ 249 KB
+2026-06-13 21:57:30,699 | INFO | case_052: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/95d800af1f8715dd01b51a769ca51358/pdf/1cd2ebf932f18c4e972623bcd9346962
+2026-06-13 21:57:35,078 | INFO | case_052: ✅ 1246 KB
+2026-06-13 21:57:40,906 | INFO | case_053: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/731d3a50272aa3ea51f85be480cc7a8c/pdf/ad9cb058cbe0641098124b788ae92b98
+2026-06-13 21:57:43,977 | INFO | case_053: ✅ 1116 KB
+2026-06-13 21:57:53,608 | INFO | case_054: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/3712e1b0e4e4c0bc3f02ca6bd77c0b77/pdf/681721438dbff0c4d108173c25d0073c
+2026-06-13 21:58:18,360 | INFO | case_054: ✅ 1249 KB
+2026-06-13 21:58:28,177 | INFO | case_055: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/505fe6c4f3beba3d23e85b56e9ed4d7a/pdf/905c8fe533a9bfa6f8362d75c8f35c82
+2026-06-13 21:58:33,478 | INFO | case_055: ✅ 1500 KB
+2026-06-13 21:59:17,474 | WARNING | case_056: tidak ada lampiran PDF → di-skip
+2026-06-13 21:59:24,634 | INFO | case_057: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9a1279c8fb98ebde9303932353131/pdf/fc79ef3dec60176f3261e72b954597a5
+2026-06-13 21:59:29,136 | INFO | case_057: ✅ 153 KB
+2026-06-13 21:59:40,335 | INFO | case_058: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d705a389ea880f4313535353438/pdf/ce9b17029a3764e7b22832fcff09d315
+2026-06-13 22:00:03,941 | INFO | case_058: ✅ 164 KB
+2026-06-13 22:00:09,795 | INFO | case_059: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/23f608b9cb5991e5d3643a300d324b5b/pdf/f101e98a701acfa0f359fd05423f54b5
+2026-06-13 22:01:31,551 | WARNING | case_059: timeout atau file terlalu kecil
+2026-06-13 22:02:30,426 | INFO | case_060: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/23f608b9cb5991e5d3643a300d324b5b/pdf/f101e98a701acfa0f359fd05423f54b5
+2026-06-13 22:02:33,495 | INFO | case_060: ✅ 852 KB
+2026-06-13 22:02:42,309 | INFO | case_061: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/b2b74f5fc416facfd17f2c78db6ed8d2/pdf/2b5a18430745b4cc22297ac6fd45ac29
+2026-06-13 22:04:04,265 | WARNING | case_061: timeout atau file terlalu kecil
+2026-06-13 22:04:12,349 | INFO | case_062: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8fbea4627a9ea3f4a754b03538ee7fcd/pdf/7eb1be9d9124530396bc459161f9f54c
+2026-06-13 22:04:16,333 | INFO | case_062: ✅ 1459 KB
+2026-06-13 22:04:25,714 | INFO | case_063: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99fbc42267cce8ee4313430343132/pdf/f08a72e9c14a5fa713d8ff90636e9b6e
+2026-06-13 22:04:29,564 | INFO | case_063: ✅ 334 KB
+2026-06-13 22:04:36,694 | INFO | case_064: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e9807bb11111ccaea1313933333535/pdf/01fee1b76564dd003de0da10108f98bc
+2026-06-13 22:05:26,243 | INFO | case_064: ✅ 365 KB
+2026-06-13 22:05:35,006 | INFO | case_065: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/8130bf08817136fccff1f91edbbfa4bd/pdf/6988d134dd6a5e087def98be2ba7b050
+2026-06-13 22:05:38,982 | INFO | case_065: ✅ 1129 KB
+2026-06-13 22:05:48,476 | INFO | case_066: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/56bf43c59d8e071062da7b8130ff2b82/pdf/c10c8d650a53d9f8b6ae03b42d5af153
+2026-06-13 22:05:52,415 | INFO | case_066: ✅ 1748 KB
+2026-06-13 22:05:58,527 | WARNING | case_067: tidak ada lampiran PDF → di-skip
+2026-06-13 22:06:02,525 | WARNING | case_068: tidak ada lampiran PDF → di-skip
+2026-06-13 22:06:06,644 | WARNING | case_069: tidak ada lampiran PDF → di-skip
+2026-06-13 22:06:14,250 | INFO | case_070: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6c6c67a68ea851f7c8655da7b403176d/pdf/e9f6df288e4246da2462fe854fdfa0fa
+2026-06-13 22:06:18,926 | INFO | case_070: ✅ 1281 KB
+2026-06-13 22:06:24,772 | INFO | case_071: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e994cf3bce0790adda313632323139/pdf/6907e9ff2842849af72f5357815f75fa
+2026-06-13 22:06:28,969 | INFO | case_071: ✅ 230 KB
+2026-06-13 22:06:37,733 | INFO | case_072: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/1e5de675b64335ea789270b001cf3865/pdf/28df9295a72270f4d3452103f74215e6
+2026-06-13 22:07:01,348 | INFO | case_072: ✅ 900 KB
+2026-06-13 22:07:07,218 | INFO | case_073: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/e02cb11857cfe396eebc0c604d3b8337/pdf/d462ed40a1e9061968206232353b87e8
+2026-06-13 22:07:10,279 | INFO | case_073: ✅ 1032 KB
+2026-06-13 22:07:23,194 | INFO | case_074: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/2be7f5f170b20092c5995149db463458/pdf/c50d3e4e8fe68120d88b29c835db638a
+2026-06-13 22:08:12,252 | INFO | case_074: ✅ 588 KB
+2026-06-13 22:08:41,611 | INFO | case_075: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/55a36e0d03bbd2afb668f54b1321762b/pdf/02a64bebc633c9fde70fed183fbe51c1
+2026-06-13 22:08:45,863 | INFO | case_075: ✅ 834 KB
+2026-06-13 22:08:56,854 | INFO | case_076: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e992b8fdbc6e0082d0303033383034/pdf/38b556f9ba8fbd824556552f2a0564d0
+2026-06-13 22:09:03,498 | INFO | case_076: ✅ 234 KB
+2026-06-13 22:09:11,864 | INFO | case_077: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/05999a3ca48da27f7c76f158cffbccfa/pdf/f85c5ca62002be93b4bced30c0d8239f
+2026-06-13 22:09:17,790 | INFO | case_077: ✅ 1019 KB
+2026-06-13 22:09:26,269 | INFO | case_078: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/aa211a319263c65912178bf905fc1a78/pdf/8c5aeeab981d24bda7d00006d0235a6d
+2026-06-13 22:09:51,441 | INFO | case_078: ✅ 874 KB
+2026-06-13 22:10:01,474 | INFO | case_079: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/f944834b89e00857da1f60ec497d0df3/pdf/e15071f059414117a9537de408e9e3fd
+2026-06-13 22:10:12,072 | INFO | case_079: ✅ 389 KB
+2026-06-13 22:10:21,184 | INFO | case_080: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e98de332ba59129a74323035373335/pdf/11bc33c49720b2bf6327886f14a5b34e
+2026-06-13 22:10:25,801 | INFO | case_080: ✅ 199 KB
+2026-06-13 22:10:55,465 | INFO | case_081: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/7b3b7b78f9ff219bb90f5a11e6172788/pdf/7b403f83a78fcd260cfd9c8d1a2b3904
+2026-06-13 22:11:00,065 | INFO | case_081: ✅ 1022 KB
+2026-06-13 22:11:09,538 | INFO | case_082: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99bd067b12f56ab6b313431383230/pdf/aba2672724f847e026f625c96fbf6bac
+2026-06-13 22:11:15,135 | INFO | case_082: ✅ 272 KB
+2026-06-13 22:11:22,233 | INFO | case_083: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6292b380717d608bab3c0b3816145585/pdf/9b12b78e78e170b8307cb9aa131e5074
+2026-06-13 22:11:26,789 | INFO | case_083: ✅ 740 KB
+2026-06-13 22:11:33,916 | INFO | case_084: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/01f041e4e57864b3cdee519acce2f58e/pdf/634a2ca46f8fcd8a91eadd93f3855e4a
+2026-06-13 22:12:17,142 | INFO | case_084: ✅ 1035 KB
+2026-06-13 22:12:24,721 | INFO | case_085: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/57ffdc860c424f5916795dce2412086e/pdf/f360938b35ea0439f4be8325810ab34e
+2026-06-13 22:12:29,773 | INFO | case_085: ✅ 870 KB
+2026-06-13 22:13:16,275 | INFO | case_086: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11eabaffad4997509c27303132393437/pdf/b53bd9a37d25b188052dfc66eaab0f37
+2026-06-13 22:13:40,293 | INFO | case_086: ✅ 37 KB
+2026-06-13 22:13:49,511 | INFO | case_087: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e993e6ea2e382694c3313233393139/pdf/56b24b769a18238c8992f2b16bd3c18e
+2026-06-13 22:14:13,587 | INFO | case_087: ✅ 215 KB
+2026-06-13 22:14:24,753 | WARNING | case_088: tidak ada lampiran PDF → di-skip
+2026-06-13 22:14:32,638 | WARNING | case_089: tidak ada lampiran PDF → di-skip
+2026-06-13 22:14:36,638 | WARNING | case_090: tidak ada lampiran PDF → di-skip
+2026-06-13 22:14:40,721 | WARNING | case_091: tidak ada lampiran PDF → di-skip
+2026-06-13 22:14:44,790 | WARNING | case_092: tidak ada lampiran PDF → di-skip
+2026-06-13 22:14:51,184 | INFO | case_093: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99d68c801f6f8844b313530313336/pdf/cd76887e2fabdded81f4477c6476008f
+2026-06-13 22:14:56,082 | INFO | case_093: ✅ 292 KB
+2026-06-13 22:15:04,301 | INFO | case_094: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/b730e74b3c6eb76ad1105f772468a614/pdf/1b97f6467e59cf45fdf9bec19c838af2
+2026-06-13 22:15:11,915 | INFO | case_094: ✅ 1084 KB
+2026-06-13 22:15:20,358 | INFO | case_095: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/742fdbaff5e376de0e9b42836d99c967/pdf/204b3450a3d918fee6da93b23a0e67ce
+2026-06-13 22:15:25,128 | INFO | case_095: ✅ 1565 KB
+2026-06-13 22:15:33,374 | INFO | case_096: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/11e99e493860e3ec9d67313734383132/pdf/dc30d4eee4d109830e1f7f2a3ee0237c
+2026-06-13 22:15:37,502 | INFO | case_096: ✅ 263 KB
+2026-06-13 22:15:47,737 | INFO | case_097: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/ea314785264cb63f986f6f4affd29cb2/pdf/09881f2f9df59924b4264c017f8ff675
+2026-06-13 22:15:51,887 | INFO | case_097: ✅ 1360 KB
+2026-06-13 22:16:00,723 | INFO | case_098: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/d56dac7f0456ef16875dc01ab7cee803/pdf/8bcaf3b06e4111e8cb4486da71dece63
+2026-06-13 22:16:08,141 | INFO | case_098: ✅ 1003 KB
+2026-06-13 22:16:14,536 | INFO | case_099: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/1f355f5aba547861becc682d454b3a6c/pdf/b2aaab6fa1e8e4cebd11bfc52472efa2
+2026-06-13 22:16:19,699 | INFO | case_099: ✅ 102 KB
+2026-06-13 22:16:26,006 | INFO | case_100: link PDF → https://putusan3.mahkamahagung.go.id/direktori/download_file/6c1a211d6d9915c8161d39fbadb65ec3/pdf/9d30cd03f18c55ea9513f723ad6d244e
+2026-06-13 22:16:29,063 | INFO | case_100: ✅ 964 KB
+2026-06-13 22:16:31,976 | INFO | Pipeline mulai: 43 PDF
+2026-06-13 22:16:32,025 | INFO | case_047.pdf: PyMuPDF OK (44,913 chars)
+2026-06-13 22:16:32,039 | INFO | case_047: ✅ 5499 kata, validitas=81.90%
+2026-06-13 22:16:32,159 | INFO | case_048.pdf: PyMuPDF OK (179,274 chars)
+2026-06-13 22:16:32,187 | INFO | case_048: ✅ 21840 kata, validitas=84.20%
+2026-06-13 22:16:32,260 | INFO | case_049.pdf: PyMuPDF OK (108,208 chars)
+2026-06-13 22:16:32,278 | INFO | case_049: ✅ 12476 kata, validitas=81.77%
+2026-06-13 22:16:32,349 | INFO | case_050.pdf: PyMuPDF OK (106,929 chars)
+2026-06-13 22:16:32,370 | INFO | case_050: ✅ 11032 kata, validitas=81.60%
+2026-06-13 22:16:32,427 | INFO | case_051.pdf: PyMuPDF OK (68,683 chars)
+2026-06-13 22:16:32,439 | INFO | case_051: ✅ 6691 kata, validitas=85.43%
+2026-06-13 22:16:32,495 | INFO | case_052.pdf: PyMuPDF OK (80,387 chars)
+2026-06-13 22:16:32,511 | INFO | case_052: ✅ 9279 kata, validitas=84.18%
+2026-06-13 22:16:32,565 | INFO | case_053.pdf: PyMuPDF OK (73,545 chars)
+2026-06-13 22:16:32,578 | INFO | case_053: ✅ 8497 kata, validitas=84.32%
+2026-06-13 22:16:32,635 | INFO | case_054.pdf: PyMuPDF OK (71,116 chars)
+2026-06-13 22:16:32,649 | INFO | case_054: ✅ 7798 kata, validitas=80.59%
+2026-06-13 22:16:32,728 | INFO | case_055.pdf: PyMuPDF OK (117,184 chars)
+2026-06-13 22:16:32,748 | INFO | case_055: ✅ 13670 kata, validitas=81.27%
+2026-06-13 22:16:32,793 | INFO | case_057.pdf: PyMuPDF OK (41,773 chars)
+2026-06-13 22:16:32,803 | INFO | case_057: ✅ 5001 kata, validitas=83.99%
+2026-06-13 22:16:32,854 | INFO | case_058.pdf: PyMuPDF OK (62,166 chars)
+2026-06-13 22:16:32,866 | INFO | case_058: ✅ 7301 kata, validitas=82.82%
+2026-06-13 22:16:32,906 | INFO | case_060.pdf: PyMuPDF OK (41,913 chars)
+2026-06-13 22:16:32,916 | INFO | case_060: ✅ 4672 kata, validitas=79.39%
+2026-06-13 22:16:32,981 | INFO | case_062.pdf: PyMuPDF OK (81,041 chars)
+2026-06-13 22:16:32,995 | INFO | case_062: ✅ 8382 kata, validitas=81.70%
+2026-06-13 22:16:33,056 | INFO | case_063.pdf: PyMuPDF OK (71,027 chars)
+2026-06-13 22:16:33,067 | INFO | case_063: ✅ 8430 kata, validitas=81.42%
+2026-06-13 22:16:33,136 | INFO | case_064.pdf: PyMuPDF OK (81,248 chars)
+2026-06-13 22:16:33,151 | INFO | case_064: ✅ 9661 kata, validitas=83.71%
+2026-06-13 22:16:33,201 | INFO | case_065.pdf: PyMuPDF OK (66,033 chars)
+2026-06-13 22:16:33,214 | INFO | case_065: ✅ 6506 kata, validitas=84.14%
+2026-06-13 22:16:33,292 | INFO | case_066.pdf: PyMuPDF OK (97,473 chars)
+2026-06-13 22:16:33,310 | INFO | case_066: ✅ 11930 kata, validitas=83.67%
+2026-06-13 22:16:33,372 | INFO | case_070.pdf: PyMuPDF OK (78,404 chars)
+2026-06-13 22:16:33,388 | INFO | case_070: ✅ 9639 kata, validitas=81.16%
+2026-06-13 22:16:33,460 | INFO | case_071.pdf: PyMuPDF OK (53,176 chars)
+2026-06-13 22:16:33,472 | INFO | case_071: ✅ 6589 kata, validitas=83.63%
+2026-06-13 22:16:33,517 | INFO | case_072.pdf: PyMuPDF OK (52,276 chars)
+2026-06-13 22:16:33,527 | INFO | case_072: ✅ 5202 kata, validitas=79.36%
+2026-06-13 22:16:33,575 | INFO | case_073.pdf: PyMuPDF OK (52,879 chars)
+2026-06-13 22:16:33,585 | INFO | case_073: ✅ 6449 kata, validitas=80.68%
+2026-06-13 22:16:33,618 | INFO | case_074.pdf: PyMuPDF OK (34,921 chars)
+2026-06-13 22:16:33,625 | INFO | case_074: ✅ 3942 kata, validitas=81.12%
+2026-06-13 22:16:33,664 | INFO | case_075.pdf: PyMuPDF OK (47,762 chars)
+2026-06-13 22:16:33,673 | INFO | case_075: ✅ 4643 kata, validitas=83.56%
+2026-06-13 22:16:33,749 | INFO | case_076.pdf: PyMuPDF OK (93,058 chars)
+2026-06-13 22:16:33,768 | INFO | case_076: ✅ 9844 kata, validitas=83.11%
+2026-06-13 22:16:33,819 | INFO | case_077.pdf: PyMuPDF OK (70,970 chars)
+2026-06-13 22:16:33,831 | INFO | case_077: ✅ 7395 kata, validitas=82.39%
+2026-06-13 22:16:33,877 | INFO | case_078.pdf: PyMuPDF OK (50,523 chars)
+2026-06-13 22:16:33,887 | INFO | case_078: ✅ 4963 kata, validitas=82.01%
+2026-06-13 22:16:33,904 | INFO | case_079.pdf: PyMuPDF OK (3,863 chars)
+2026-06-13 22:16:33,905 | INFO | case_079: ✅ 268 kata, validitas=72.96%
+2026-06-13 22:16:33,950 | INFO | case_080.pdf: PyMuPDF OK (44,952 chars)
+2026-06-13 22:16:33,959 | INFO | case_080: ✅ 4959 kata, validitas=83.14%
+2026-06-13 22:16:34,011 | INFO | case_081.pdf: PyMuPDF OK (63,284 chars)
+2026-06-13 22:16:34,023 | INFO | case_081: ✅ 7320 kata, validitas=82.35%
+2026-06-13 22:16:34,073 | INFO | case_082.pdf: PyMuPDF OK (55,243 chars)
+2026-06-13 22:16:34,085 | INFO | case_082: ✅ 6476 kata, validitas=82.44%
+2026-06-13 22:16:34,125 | INFO | case_083.pdf: PyMuPDF OK (44,429 chars)
+2026-06-13 22:16:34,134 | INFO | case_083: ✅ 4897 kata, validitas=81.79%
+2026-06-13 22:16:34,193 | INFO | case_084.pdf: PyMuPDF OK (81,059 chars)
+2026-06-13 22:16:34,209 | INFO | case_084: ✅ 8727 kata, validitas=85.97%
+2026-06-13 22:16:34,266 | INFO | case_085.pdf: PyMuPDF OK (50,005 chars)
+2026-06-13 22:16:34,278 | INFO | case_085: ✅ 5337 kata, validitas=80.80%
+2026-06-13 22:16:34,290 | INFO | case_086.pdf: PyMuPDF OK (998 chars)
+2026-06-13 22:16:34,292 | INFO | case_086: ✅ 62 kata, validitas=51.09%
+2026-06-13 22:16:34,371 | INFO | case_087.pdf: PyMuPDF OK (78,558 chars)
+2026-06-13 22:16:34,392 | INFO | case_087: ✅ 9623 kata, validitas=85.11%
+2026-06-13 22:16:34,468 | INFO | case_093.pdf: PyMuPDF OK (92,788 chars)
+2026-06-13 22:16:34,484 | INFO | case_093: ✅ 9804 kata, validitas=84.82%
+2026-06-13 22:16:34,536 | INFO | case_094.pdf: PyMuPDF OK (62,476 chars)
+2026-06-13 22:16:34,547 | INFO | case_094: ✅ 6333 kata, validitas=82.14%
+2026-06-13 22:16:34,625 | INFO | case_095.pdf: PyMuPDF OK (97,713 chars)
+2026-06-13 22:16:34,643 | INFO | case_095: ✅ 10673 kata, validitas=85.71%
+2026-06-13 22:16:34,704 | INFO | case_096.pdf: PyMuPDF OK (77,049 chars)
+2026-06-13 22:16:34,720 | INFO | case_096: ✅ 8175 kata, validitas=80.20%
+2026-06-13 22:16:34,807 | INFO | case_097.pdf: PyMuPDF OK (91,986 chars)
+2026-06-13 22:16:34,830 | INFO | case_097: ✅ 10270 kata, validitas=83.01%
+2026-06-13 22:16:34,876 | INFO | case_098.pdf: PyMuPDF OK (59,564 chars)
+2026-06-13 22:16:34,886 | INFO | case_098: ✅ 5846 kata, validitas=85.02%
+2026-06-13 22:16:34,917 | INFO | case_099.pdf: PyMuPDF OK (27,698 chars)
+2026-06-13 22:16:34,923 | INFO | case_099: ✅ 2612 kata, validitas=83.41%
+2026-06-13 22:16:34,967 | INFO | case_100.pdf: PyMuPDF OK (43,587 chars)
+2026-06-13 22:16:34,975 | INFO | case_100: ✅ 5212 kata, validitas=83.54%
+2026-06-13 22:16:34,993 | WARNING | Validasi akhir: KURANG 7 dokumen

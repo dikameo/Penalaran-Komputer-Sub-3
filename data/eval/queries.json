@@ -1,0 +1,32 @@
+[
+  {
+    "query_id": "q001",
+    "query_text": "terdakwa melakukan kekerasan seksual terhadap anak di bawah umur pasal 76D UU perlindungan anak",
+    "ground_truth_ids": [],
+    "catatan": "query tentang kekerasan seksual anak"
+  },
+  {
+    "query_id": "q002",
+    "query_text": "terdakwa melakukan penganiayaan terhadap anak menyebabkan luka berat pasal 80 UU 35 tahun 2014",
+    "ground_truth_ids": [],
+    "catatan": "query tentang penganiayaan anak"
+  },
+  {
+    "query_id": "q003",
+    "query_text": "eksploitasi anak untuk tujuan komersial perdagangan anak trafficking",
+    "ground_truth_ids": [],
+    "catatan": "query tentang eksploitasi/trafficking anak"
+  },
+  {
+    "query_id": "q004",
+    "query_text": "penelantaran anak oleh orang tua tidak memberikan nafkah dan perlindungan",
+    "ground_truth_ids": [],
+    "catatan": "query tentang penelantaran anak"
+  },
+  {
+    "query_id": "q005",
+    "query_text": "pencabulan terhadap anak korban di bawah 12 tahun terdakwa orang dewasa",
+    "ground_truth_ids": [],
+    "catatan": "query tentang pencabulan anak"
+  }
+]

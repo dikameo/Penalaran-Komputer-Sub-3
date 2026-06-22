@@ -1,0 +1,7 @@
+{
+  "precision_at_3_tfidf": 1.0,
+  "precision_at_3_embedding": 1.0,
+  "n_queries": 5,
+  "n_cases": 43,
+  "mode_terbaik": "tfidf"
+}

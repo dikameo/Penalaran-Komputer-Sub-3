@@ -1,0 +1,70 @@
+{
+  "svm_classification": {
+    "accuracy": 0.9068,
+    "precision_macro": 0.4534,
+    "recall_macro": 0.5,
+    "f1_macro": 0.4756,
+    "n_splits": 4,
+    "n_samples": 43
+  },
+  "retrieval_tfidf": {
+    "mode": "tfidf",
+    "k": 3,
+    "threshold": 0.05,
+    "n_queries": 43,
+    "precision": 0.9767,
+    "recall": 0.9767,
+    "f1": 0.9767,
+    "precision_std": 0.1507,
+    "recall_std": 0.1507,
+    "f1_std": 0.1507
+  },
+  "retrieval_embedding": {
+    "mode": "embedding",
+    "k": 3,
+    "threshold": 0.05,
+    "n_queries": 43,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "precision_std": 0.0,
+    "recall_std": 0.0,
+    "f1_std": 0.0
+  },
+  "mode_terbaik": "Embedding",
+  "n_kasus_corpus": 43,
+  "distribusi_amar": "43",
+  "pct_amar_kosong": 0.0,
+  "rejection_rate": 0.0233,
+  "error_analysis": {
+    "n_salah_svm": 0,
+    "error_rate": 0.0,
+    "n_rejection": 1
+  },
+  "rekomendasi": [
+    {
+      "aspek": "Mode Retrieval",
+      "temuan": "TF-IDF F1=0.977, Embedding F1=1.000",
+      "saran": "Gunakan Embedding sebagai mode utama. Embedding lebih akurat untuk teks panjang."
+    },
+    {
+      "aspek": "Ukuran Corpus",
+      "temuan": "Hanya 43 dokumen",
+      "saran": "Tambah minimal 50+ dokumen. Dengan dataset kecil metrik cenderung tidak stabil dan tidak representatif."
+    },
+    {
+      "aspek": "SVM F1 Rendah",
+      "temuan": "F1=0.476",
+      "saran": "Coba Naive Bayes (lebih stabil untuk dataset kecil), atau tuning C parameter di LinearSVC."
+    }
+  ],
+  "prediksi_solution_reuse": [
+    {
+      "nama": "Solution Reuse",
+      "coverage": 1.0,
+      "n_prediksi": 5,
+      "n_terisi": "5",
+      "avg_top1_score": 0.1817
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "query_id": "demo_001",
+    "query_text": "Anak melakukan persetubuhan dengan anak korban berusia 13 tahun. Perbuatan dilakukan beberapa kali. Didakwa Pasal 81 UU Perlindungan Anak.",
+    "predicted_solution": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Anak yang Melakukan Persetubuhan Terhadap Anak, sebagaimana diatur dan diancam pidana dalam Pasal 81 Ayat (2) UU RI No",
+    "predicted_pasal": "",
+    "predicted_vonis": "3 (tiga) tahun dikurangi selama",
+    "top_5_case_ids": "case_053, case_097, case_073",
+    "top_5_scores": "0.1485, 0.1369, 0.1113",
+    "best_case_id": "case_053",
+    "best_score": 0.1485,
+    "amar_sebenarnya": "Menjatuhkan pidana penjara dan pelatihan kerja",
+    "pasal_sebenarnya": "Pasal 81 UU 35/2014",
+    "groq_summary": ""
+  },
+  {
+    "query_id": "demo_002",
+    "query_text": "Anak melakukan pencurian dengan pemberatan bersama temannya pada malam hari di rumah korban. Didakwa Pasal 363 KUHP.",
+    "predicted_solution": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana “didepan umum dan bersama-sama melakukan kekerasan terhadap orang” sebagaimana diatur dan diancam pidana dalam Pasal ayat (1) KUHP dalam dak",
+    "predicted_pasal": "",
+    "predicted_vonis": "3 (tiga) bulan dengan masa perc",
+    "top_5_case_ids": "case_098, case_060, case_087",
+    "top_5_scores": "0.1178, 0.0895, 0.0806",
+    "best_case_id": "case_098",
+    "best_score": 0.1178,
+    "amar_sebenarnya": "Menjatuhkan pidana penjara dengan masa percobaan",
+    "pasal_sebenarnya": "Pasal 363 KUHP",
+    "groq_summary": ""
+  },
+  {
+    "query_id": "demo_003",
+    "query_text": "Anak terbukti memiliki dan menggunakan narkotika golongan I jenis sabu. Barang bukti berupa kristal bening. Didakwa UU Narkotika.",
+    "predicted_solution": "terbukti secara sah dan menyakinkan bersalah melakukan Tindak Pidana “Penyalahguna narkotika golongan I berupa : kristal bening (shabu-shabu) sebagaimana diatur dan diancam pidana pada Pasal 127 Ayat (1) huru",
+    "predicted_pasal": "",
+    "predicted_vonis": "1 (satu) tahun dan 6 (enam) bul",
+    "top_5_case_ids": "case_051, case_048, case_075",
+    "top_5_scores": "0.254, 0.1237, 0.1166",
+    "best_case_id": "case_051",
+    "best_score": 0.254,
+    "amar_sebenarnya": "Menjatuhkan tindakan rehabilitasi / pidana penjara",
+    "pasal_sebenarnya": "Pasal 112 UU 35/2009",
+    "groq_summary": ""
+  },
+  {
+    "query_id": "demo_004",
+    "query_text": "Perkara anak diselesaikan melalui diversi karena memenuhi syarat. Tercapai kesepakatan diversi antara para pihak.",
+    "predicted_solution": "Menghentikan pemeriksaan perkara No",
+    "predicted_pasal": "",
+    "predicted_vonis": "",
+    "top_5_case_ids": "case_079, case_080, case_094",
+    "top_5_scores": "0.2812, 0.0469, 0.0089",
+    "best_case_id": "case_079",
+    "best_score": 0.2812,
+    "amar_sebenarnya": "Penetapan kesepakatan diversi, perkara dihentikan",
+    "pasal_sebenarnya": "Pasal 7 UU SPPA",
+    "groq_summary": ""
+  },
+  {
+    "query_id": "demo_005",
+    "query_text": "Anak melakukan penganiayaan terhadap korban hingga luka. Didakwa Pasal 80 UU Perlindungan Anak.",
+    "predicted_solution": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Anak yang Melakukan Persetubuhan Terhadap Anak, sebagaimana diatur dan diancam pidana dalam Pasal 81 Ayat (2) UU RI No",
+    "predicted_pasal": "",
+    "predicted_vonis": "3 (tiga) tahun dikurangi selama",
+    "top_5_case_ids": "case_053, case_098, case_077",
+    "top_5_scores": "0.1069, 0.1041, 0.1011",
+    "best_case_id": "case_053",
+    "best_score": 0.1069,
+    "amar_sebenarnya": "Menjatuhkan pidana penjara terhadap Anak",
+    "pasal_sebenarnya": "Pasal 80 UU 35/2014",
+    "groq_summary": ""
+  }
+]

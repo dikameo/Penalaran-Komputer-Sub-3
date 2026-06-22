@@ -1,0 +1,309 @@
+{
+  "total": 43,
+  "berhasil": 43,
+  "gagal_ekstrak": 0,
+  "gagal_validasi": 0,
+  "detail": [
+    {
+      "case_id": "case_047",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_047.txt",
+      "jumlah_kata": 5499,
+      "validitas": 0.819,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_048",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_048.txt",
+      "jumlah_kata": 21840,
+      "validitas": 0.842,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_049",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_049.txt",
+      "jumlah_kata": 12476,
+      "validitas": 0.818,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_050",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_050.txt",
+      "jumlah_kata": 11032,
+      "validitas": 0.816,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_051",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_051.txt",
+      "jumlah_kata": 6691,
+      "validitas": 0.854,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_052",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_052.txt",
+      "jumlah_kata": 9279,
+      "validitas": 0.842,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_053",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_053.txt",
+      "jumlah_kata": 8497,
+      "validitas": 0.843,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_054",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_054.txt",
+      "jumlah_kata": 7798,
+      "validitas": 0.806,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_055",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_055.txt",
+      "jumlah_kata": 13670,
+      "validitas": 0.813,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_057",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_057.txt",
+      "jumlah_kata": 5001,
+      "validitas": 0.84,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_058",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_058.txt",
+      "jumlah_kata": 7301,
+      "validitas": 0.828,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_060",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_060.txt",
+      "jumlah_kata": 4672,
+      "validitas": 0.794,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_062",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_062.txt",
+      "jumlah_kata": 8382,
+      "validitas": 0.817,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_063",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_063.txt",
+      "jumlah_kata": 8430,
+      "validitas": 0.814,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_064",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_064.txt",
+      "jumlah_kata": 9661,
+      "validitas": 0.837,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_065",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_065.txt",
+      "jumlah_kata": 6506,
+      "validitas": 0.841,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_066",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_066.txt",
+      "jumlah_kata": 11930,
+      "validitas": 0.837,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_070",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_070.txt",
+      "jumlah_kata": 9639,
+      "validitas": 0.812,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_071",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_071.txt",
+      "jumlah_kata": 6589,
+      "validitas": 0.836,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_072",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_072.txt",
+      "jumlah_kata": 5202,
+      "validitas": 0.794,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_073",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_073.txt",
+      "jumlah_kata": 6449,
+      "validitas": 0.807,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_074",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_074.txt",
+      "jumlah_kata": 3942,
+      "validitas": 0.811,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_075",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_075.txt",
+      "jumlah_kata": 4643,
+      "validitas": 0.836,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_076",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_076.txt",
+      "jumlah_kata": 9844,
+      "validitas": 0.831,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_077",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_077.txt",
+      "jumlah_kata": 7395,
+      "validitas": 0.824,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_078",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_078.txt",
+      "jumlah_kata": 4963,
+      "validitas": 0.82,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_079",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_079.txt",
+      "jumlah_kata": 268,
+      "validitas": 0.73,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_080",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_080.txt",
+      "jumlah_kata": 4959,
+      "validitas": 0.831,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_081",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_081.txt",
+      "jumlah_kata": 7320,
+      "validitas": 0.823,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_082",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_082.txt",
+      "jumlah_kata": 6476,
+      "validitas": 0.824,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_083",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_083.txt",
+      "jumlah_kata": 4897,
+      "validitas": 0.818,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_084",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_084.txt",
+      "jumlah_kata": 8727,
+      "validitas": 0.86,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_085",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_085.txt",
+      "jumlah_kata": 5337,
+      "validitas": 0.808,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_086",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_086.txt",
+      "jumlah_kata": 62,
+      "validitas": 0.511,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_087",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_087.txt",
+      "jumlah_kata": 9623,
+      "validitas": 0.851,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_093",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_093.txt",
+      "jumlah_kata": 9804,
+      "validitas": 0.848,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_094",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_094.txt",
+      "jumlah_kata": 6333,
+      "validitas": 0.821,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_095",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_095.txt",
+      "jumlah_kata": 10673,
+      "validitas": 0.857,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_096",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_096.txt",
+      "jumlah_kata": 8175,
+      "validitas": 0.802,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_097",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_097.txt",
+      "jumlah_kata": 10270,
+      "validitas": 0.83,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_098",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_098.txt",
+      "jumlah_kata": 5846,
+      "validitas": 0.85,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_099",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_099.txt",
+      "jumlah_kata": 2612,
+      "validitas": 0.834,
+      "status": "berhasil"
+    },
+    {
+      "case_id": "case_100",
+      "path_txt": "D:\\amad\\Paper\\Tugas\\PK\\Penalaran-Komputer-Sub-3\\STEP 1\\data\\raw\\case_100.txt",
+      "jumlah_kata": 5212,
+      "validitas": 0.835,
+      "status": "berhasil"
+    }
+  ]
+}

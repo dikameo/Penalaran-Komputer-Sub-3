@@ -1,0 +1,262 @@
+[
+  {
+    "query_id": "q001",
+    "query_text": "terdakwa melakukan kekerasan seksual terhadap anak di bawah umur pasal 76D UU perlindungan anak",
+    "mode": "tfidf",
+    "top_k": [
+      {
+        "rank": 1,
+        "case_id": "case_049",
+        "score": 0.1596,
+        "no_perkara": "3/Pid.Sus.Anak/2016/PN Dps. DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Denpasar yang memeriksa dan mengadili perkara pidana anak dalam tingkat pertama dengan acara pemeriksaan biasa menjatuhkan putusan sebagai berikut dalam perkara pidana Anak atas nama",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "18 Januari 2016",
+        "terdakwa": "Agung Putra Wirawan",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti bersalah melakukan tindak pidana melanggar larangan melakukan kekerasan terhadap anak yang mengakibatkan kematian yang dilakukan oleh orang tuanya sebagaimana diatur dan diancam pidana dalam Pasal 80",
+        "vonis_penjara": "2 (dua) tahun 2 (dua) bulan, da",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 3/Pid.Sus.Anak/2016/PN Dps. DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Denpasar yang memeriksa dan mengadili perkara pidana anak dalam tingkat pertama de",
+        "label": "terbukti"
+      },
+      {
+        "rank": 2,
+        "case_id": "case_053",
+        "score": 0.1314,
+        "no_perkara": "13/Pid.Sus.Anak/2016/PN Dps.",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "28 April 2016",
+        "terdakwa": "ANAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Anak yang Melakukan Persetubuhan Terhadap Anak, sebagaimana diatur dan diancam pidana dalam Pasal 81 Ayat (2) UU RI No",
+        "vonis_penjara": "3 (tiga) tahun dikurangi selama",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 13/Pid.Sus.Anak/2016/PN Dps. ”DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA” Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pemeriksaan biasa dala",
+        "label": "terbukti"
+      },
+      {
+        "rank": 3,
+        "case_id": "case_098",
+        "score": 0.1292,
+        "no_perkara": "19/Pid.Sus-Anak/2015/PN",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "26 Oktober 2015",
+        "terdakwa": "tidak ditahan",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana “didepan umum dan bersama-sama melakukan kekerasan terhadap orang” sebagaimana diatur dan diancam pidana dalam Pasal ayat (1) KUHP dalam dak",
+        "vonis_penjara": "3 (tiga) bulan dengan masa perc",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 19 / Pid.Sus-Anak / 2015 /PN Dps DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pemeriksaan biasa pa",
+        "label": "terbukti"
+      }
+    ]
+  },
+  {
+    "query_id": "q002",
+    "query_text": "terdakwa melakukan penganiayaan terhadap anak menyebabkan luka berat pasal 80 UU 35 tahun 2014",
+    "mode": "tfidf",
+    "top_k": [
+      {
+        "rank": 1,
+        "case_id": "case_055",
+        "score": 0.1679,
+        "no_perkara": "",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "01 Desember 2016",
+        "terdakwa": "didampingi oleh Penasihat Hukum Sdr. POPPY EUNIKE KUSTIANI",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana “Pengeroyokkan Mengakibatkan Luka Berat ” sebagaimana diatur dan diancam pidana dalam Pasal 170 ayat (2) Ke-2 KUHP, sebagaimana tersebut dal",
+        "vonis_penjara": "2 (dua) tahun dan 6 (enam) bula",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 34/Pid.Sus-Anak/2016/PN.Dps. DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Anak pada Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pem",
+        "label": "terbukti"
+      },
+      {
+        "rank": 2,
+        "case_id": "case_077",
+        "score": 0.1017,
+        "no_perkara": "2/Pid.Sus-Anak/2015/PN",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "29 Mei 2015",
+        "terdakwa": "ANAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti bersalah melakukan tindak pidana “dengan terang-terangan dan dengan tenaga bersama menggunakan kekerasan terhadap orang yang mengakibatkan Luka-luka” sebagaimana diatur dalam Pasal 170 Ayat (2) Ke-1",
+        "vonis_penjara": "1 (satu) Tahun 6 (enam) bulan d",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 13/Pid.Sus-Anak/2015/PN Dps DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Denpasar yang memeriksa dan mengadili perkara perkara-perkara pidana dalam peradil",
+        "label": "terbukti"
+      },
+      {
+        "rank": 3,
+        "case_id": "case_053",
+        "score": 0.0877,
+        "no_perkara": "13/Pid.Sus.Anak/2016/PN Dps.",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "28 April 2016",
+        "terdakwa": "ANAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Anak yang Melakukan Persetubuhan Terhadap Anak, sebagaimana diatur dan diancam pidana dalam Pasal 81 Ayat (2) UU RI No",
+        "vonis_penjara": "3 (tiga) tahun dikurangi selama",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 13/Pid.Sus.Anak/2016/PN Dps. ”DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA” Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pemeriksaan biasa dala",
+        "label": "terbukti"
+      }
+    ]
+  },
+  {
+    "query_id": "q003",
+    "query_text": "eksploitasi anak untuk tujuan komersial perdagangan anak trafficking",
+    "mode": "tfidf",
+    "top_k": [
+      {
+        "rank": 1,
+        "case_id": "case_094",
+        "score": 0.0826,
+        "no_perkara": "",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "29 Juli 2015",
+        "terdakwa": "ANAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti melakukan tindak pidana sebagaimana didakwakan dan oleh karenanya menunut agar Hakim Pengadilan Negeri Denpasar yang memeriksa dan mengadili perkara ini memutuskan sebagai berikut : -----------------",
+        "vonis_penjara": "1 (satu) tahun, dikurangi selam",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 12/Pid.Sus. Anak/2015PN.Dps DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Denpasar yang memeriksa dan mengadili perkara- perkara pidana pada peradilan tingk",
+        "label": "terbukti"
+      },
+      {
+        "rank": 2,
+        "case_id": "case_087",
+        "score": 0.0782,
+        "no_perkara": "21/Pid.Sus.Anak/2016/ PN.Dps tanggal",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "19 Juli 2016",
+        "terdakwa": "didampingi oleh I Gusti Agung Puspawati Pembim",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan Tindak Pidana “Pencurian dengan Pemberatan” sebagaimana dimaksud dalam Pasal 363 ayat (1) ke-4 KUHP sesuai Dakwaan Penuntut Umum",
+        "vonis_penjara": "",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi Hal 1 dari 24 Halaman Putusan Nomor 21/Pid.Sus-Anak/2016/PN Dps P U T U S A N Nomor 21 /Pid.Sus-Anak/2016/PN Dps “DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA” Pengadilan Negeri Denpasar yang m",
+        "label": "terbukti"
+      },
+      {
+        "rank": 3,
+        "case_id": "case_053",
+        "score": 0.0757,
+        "no_perkara": "13/Pid.Sus.Anak/2016/PN Dps.",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "28 April 2016",
+        "terdakwa": "ANAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Anak yang Melakukan Persetubuhan Terhadap Anak, sebagaimana diatur dan diancam pidana dalam Pasal 81 Ayat (2) UU RI No",
+        "vonis_penjara": "3 (tiga) tahun dikurangi selama",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 13/Pid.Sus.Anak/2016/PN Dps. ”DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA” Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pemeriksaan biasa dala",
+        "label": "terbukti"
+      }
+    ]
+  },
+  {
+    "query_id": "q004",
+    "query_text": "penelantaran anak oleh orang tua tidak memberikan nafkah dan perlindungan",
+    "mode": "tfidf",
+    "top_k": [
+      {
+        "rank": 1,
+        "case_id": "case_057",
+        "score": 0.123,
+        "no_perkara": "",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "15 Juni 2016",
+        "terdakwa": "ANAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan melakukan tindak pidana : 1",
+        "vonis_penjara": "",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi Hal 1 dari 13 halaman Putusan perkara Nomor 16/Pid.Sus-Anak/2016/PN Dps P U T U S A N. Nomor : 16 / Pid.Sus-Anak / 2016 / PN.Dps. DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA. Pengadilan Negeri",
+        "label": "terbukti"
+      },
+      {
+        "rank": 2,
+        "case_id": "case_076",
+        "score": 0.1209,
+        "no_perkara": "25/Pid.Sus.Anak/2016/PN Dps tanggal",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "29 September 2016",
+        "terdakwa": "pada Balai Pemasyarakatan Klas I Denpasar dan orang tua dari Para Terdakwa",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan melakukan tindak pidana sebagaimana didakwakan dan oleh karenanya menuntut agar Hakim yang memeriksa dan mengadili perkara ini memutuskan sebagai berikut : 1",
+        "vonis_penjara": "3 ( tiga ) bulan,",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 25/Pid.Sus. Anak/2016 /PN Dps DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Anak pada Pengadilan Negeri Denpasar yang memeriksa dan mengadili perkara-perkara pidan",
+        "label": "terbukti"
+      },
+      {
+        "rank": 3,
+        "case_id": "case_098",
+        "score": 0.0924,
+        "no_perkara": "19/Pid.Sus-Anak/2015/PN",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "26 Oktober 2015",
+        "terdakwa": "tidak ditahan",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana “didepan umum dan bersama-sama melakukan kekerasan terhadap orang” sebagaimana diatur dan diancam pidana dalam Pasal ayat (1) KUHP dalam dak",
+        "vonis_penjara": "3 (tiga) bulan dengan masa perc",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 19 / Pid.Sus-Anak / 2015 /PN Dps DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pemeriksaan biasa pa",
+        "label": "terbukti"
+      }
+    ]
+  },
+  {
+    "query_id": "q005",
+    "query_text": "pencabulan terhadap anak korban di bawah 12 tahun terdakwa orang dewasa",
+    "mode": "tfidf",
+    "top_k": [
+      {
+        "rank": 1,
+        "case_id": "case_065",
+        "score": 0.1666,
+        "no_perkara": "159/Pid.Sus/2015/PN Dps. hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "14 November 2014",
+        "terdakwa": "didampingi oleh YANUARIUS NAHAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti bersalah melakukan tindak pidana “pencabulan terhadap anak” sebagaimana diatur dalam Pasal 82 UU RI No",
+        "vonis_penjara": "8 (delapan) tahun dikurangi sel",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 159/ Pid.Sus/2015/PN Dps. ----- “DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA”--------- ----- Pengadilan Negeri Denpasar yang memeriksa dan mengadili perkara-perkara pidana ",
+        "label": "terbukti"
+      },
+      {
+        "rank": 2,
+        "case_id": "case_098",
+        "score": 0.1024,
+        "no_perkara": "19/Pid.Sus-Anak/2015/PN",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "26 Oktober 2015",
+        "terdakwa": "tidak ditahan",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana “didepan umum dan bersama-sama melakukan kekerasan terhadap orang” sebagaimana diatur dan diancam pidana dalam Pasal ayat (1) KUHP dalam dak",
+        "vonis_penjara": "3 (tiga) bulan dengan masa perc",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 19 / Pid.Sus-Anak / 2015 /PN Dps DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pemeriksaan biasa pa",
+        "label": "terbukti"
+      },
+      {
+        "rank": 3,
+        "case_id": "case_053",
+        "score": 0.0729,
+        "no_perkara": "13/Pid.Sus.Anak/2016/PN Dps.",
+        "pengadilan": "Pengadilan Negeri Denpasar",
+        "tanggal_putusan": "28 April 2016",
+        "terdakwa": "ANAK",
+        "pasal_dakwaan": "",
+        "pasal_terbukti": "",
+        "amar_putusan": "terbukti secara sah dan meyakinkan bersalah melakukan tindak pidana Anak yang Melakukan Persetubuhan Terhadap Anak, sebagaimana diatur dan diancam pidana dalam Pasal 81 Ayat (2) UU RI No",
+        "vonis_penjara": "3 (tiga) tahun dikurangi selama",
+        "ringkasan_fakta": "hkama ahkamah Agung Repub ahkamah Agung Republik Indonesia mah Agung Republik Indonesia blik Indonesi P U T U S A N Nomor 13/Pid.Sus.Anak/2016/PN Dps. ”DEMI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA” Pengadilan Negeri Denpasar yang mengadili perkara pidana anak dengan acara pemeriksaan biasa dala",
+        "label": "terbukti"
+      }
+    ]
+  }
+]
